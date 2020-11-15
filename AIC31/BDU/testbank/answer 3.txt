@@ -1,0 +1,297 @@
+1. Mistakes in coverage decisions can lead to:
+A. Good-faith awards.
+B. Increased litigation.
+C. Decreased loss ratios.
+D. Policy expirations.
+
+B is correct (Obj 1 每 Type A).
+ 
+
+Mistakes in coverage decisions can lead to bad-faith awards, increased loss ratios, a loss of customer satisfaction, and increased litigation.
+
+2. Which one of the following statements is correct regarding claims representatives＊ coverage decisions?
+A. Claims representatives＊ coverage decisions should be influenced by the cost of the underlying investigation.
+B. Claims representatives should assume their interpretation of the policy is the same as the policyholder＊s interpretation.
+C. Claims representatives should provide full, written coverage explanations to insureds, even when the property loss is minor.
+D. Claims representatives should never separate their personal feelings about a claim from their coverage decisions.
+
+C is correct (Obj 1 每 Type A).
+ 
+
+Most states require coverage denials to be in writing, and claims reps should provide full written coverage explanations to insureds.
+
+ 
+
+A is incorrect. The cost of the investigation shouldn＊t influence a coverage decision.
+B is incorrect. Claims representatives should concede that some policy wording may be subject to different interpretations.
+D is incorrect. Claims representatives must separate their personal feelings about a claim from their coverage decisions.
+
+3. Which one of the following is an appropriate factor for the claims representative to consider when making coverage decisions?
+A. The insured＊s interpretation of the policy provisions.
+B. The insured＊s demeanor during the investigation.
+C. The cost of the investigation.
+D. The aggressiveness of the insured＊s attorney.
+
+A is correct (Obj 1 每 Type A).
+ 
+
+When policyholders raise viable alternative coverage interpretations, reps should analyze those interpretations and inform claims management of them.
+
+B is incorrect. Coverage decisions should not be based on a rep＊s feelings about an insured.
+C is incorrect. Poor coverage decisions can sometimes occur if a claims representative is influenced by the cost of the investigation.
+D is incorrect. Coverage decisions should not be based on the personality of the insured＊s attorney.
+
+4. Maria, a claims representative who lives in Pennsylvania, handles claims in multiple states. When Maria is assigned a property loss claim from a policy issued in Delaware, she would be wise to do which one of the following before making a coverage decision?
+A. Conclude her investigation of the claim as quickly as possible.
+B. Correct the policyholder if they provide a different interpretation of the policy than she does.
+C. Memorize every word of the policy.
+D. Check whether Delaware interprets the policy differently than Pennsylvania.
+
+D is correct (Obj 1 每 Type B).
+ 
+
+Claims representatives who handle claims in multiple states should be sure to consider how different jurisdictions interpret the same policy in different ways.
+
+A is incorrect. Claims reps should always obtain a detailed account of the relevant facts before committing to coverage.
+B is incorrect. When policyholders raise viable alternative coverage interpretations, reps should analyze those interpretations and inform claims management of them.
+C is incorrect. It is unreasonable to expect claims reps to memorize every word of every policy. Maria should review the policy wording before making a decision.
+
+5. An action that prevents an insurer from claiming its right, privilege, or defense if it would be inequitable to do so because of the insurer＊s conduct toward the insured can constitute:
+A. A waiver.
+B. A moral hazard.
+C. First-party bad faith.
+D. Estoppel.
+
+D is correct (Obj 2 每 Type A).
+
+Estoppel prohibits a party to a contract from enforcing certain conditions of the contract because that party＊s behavior or words caused a breach of contract.
+
+A is incorrect. A waiver involves voluntarily and intentionally relinquishing a known contractual right.
+B is incorrect. A moral hazard is a condition that increases the likelihood that a person will intentionally cause or exaggerate a loss.
+C is incorrect. First-party bad faith is the insurer＊s mishandling of a first-party claim that can result in extracontractual damages.
+
+6. Which one of the following statements is correct regarding a waiver?
+A. The two types of nonwaiver agreements are promissory estoppel and habeas corpus.
+B. Once a claim has been denied by the insurer, a waiver cannot occur.
+C. In some jurisdictions, a statement from the insured can waive the proof of loss condition.
+D. For a waiver to occur, the insured must rely on the insurer＊s conduct.
+
+C is correct (Obj 2 每 Type A).
+ 
+
+A is incorrect. The two types of nonwaiver agreements are general and specific.
+B is incorrect. Waiver can occur following a claim denial.
+D is incorrect. For estoppel to occur, the insured must rely on the insurer＊s conduct.
+
+7. In which one of the following situations is a general nonwaiver used?
+A. The insurer is concerned that the claims investigation will take longer than the law allows.
+B. The insurer commits estoppel.
+C. The insurer is concerned about investigating a claim before the insured has substantially complied with the policy＊s duties after loss conditions.
+D. The insurer becomes aware of a specific coverage problem or defense based on information received during an inspection of the damaged property.
+
+C is correct (Obj 2 每 Type A).
+ 
+
+A general nonwaiver agreement is commonly used in daily claims adjusting whenever the insurer is concerned about investigating a claim before the insured has substantially complied with the policy＊s duties after loss conditions. A specific nonwaiver is used whenever the insurer becomes aware of a specific coverage problem or defense.
+
+8. Which one of the following statements is correct regarding a waiver?
+A. A waiver can be made expressly or by implication.
+B. All waivers must be made in writing.
+C. A waiver cannot be made following the denial of a claim.
+D. Making a payment cannot waive an insurer＊s coverage defenses.
+
+A is correct (Obj 2 每 Type A).
+ 
+
+B is incorrect. A waiver can be oral, written, or inferred through any conduct of the adjuster or insurer inconsistent with a particular right.
+C is incorrect. Wavier can occur following a claim denial.
+D is incorrect. Making a payment or initiating appraisal waives any coverage defenses unless the insurer expressly advises the insured that it is reserving its rights to investigate further and assert policy conditions.
+
+9. Which one of the following tools can be used by an adjuster to potentially avoid waiver and estoppel?
+A. Due diligence checklist.
+B. Reservation of rights letter.
+C. Hold-harmless agreement.
+D. Anti-estoppel clause.
+
+B is correct (Obj 2 每 Type A).
+
+An adjuster can avoid waiver and estoppel through the use of a nonwaiver agreement or a reservation of rights letter.
+
+10. An advance payment receipt is essentially a nonwaiver agreement, but it also serves to advise the insured that:
+A. The insurer has accepted the claim.
+B. Payment is not an admission of liability.
+C. If the claim is not covered, the insurer forfeits the advance payment.
+D. The insurer waives the conditions listed in the agreement.
+
+B is correct (Obj 2 每 Type A).
+ 
+
+A is incorrect. An advance payment receipt advises the insured that the insurer has neither accepted nor denied the claim.
+C is incorrect. An advance payment receipt advises the insured that if the claim is not covered, the insured agrees to repay the insurer the amount advanced.
+D is incorrect. An advance payment receipt advises the insured that the insurer does not waive any conditions and expects full compliance under the policy.
+
+11. Which one of the following statements is correct regarding good-faith investigations?
+A. Estoppel can occur when the insured acts in a way that induces an insurer to rely on the insured＊s action to the detriment of the insurer.
+B. When an insurer makes an unconditional offer to pay a claim after becoming aware of a coverage defense or a basis for denying liability, the insurer has acted in bad faith.
+C. An alternative dispute resolution is a legal action where the plaintiff requests the court review the evidence and determine the rights and duties of the parties to the dispute
+D. Advance payment receipts are routinely obtained even when the policy clearly covers the cause of loss and circumstances surrounding the loss.
+
+D is correct (Obj 2 每 Type A).
+ 
+
+A is incorrect. Estoppel can occur when the insurer acts in a way that induces an insured to rely on the insurer＊s action to the detriment of the insured.
+B is incorrect. When an insurer makes an unconditional offer to pay a claim after becoming aware of a coverage defense or a basis for denying liability, the insurer waives its right to deny the claim.
+C is incorrect. A declaratory judgment action is a legal action where the plaintiff requests the court review the evidence and determine the rights and duties of the parties to the dispute.
+
+12. Elaina Jackson filed an insurance claim after her home was destroyed by fire, but suddenly became difficult to contact after suspicion was aroused as to how the fire began. When Alan, the insurance adjuster, visited Elaina, she refused to sign a nonwaiver document that was presented to her. Which one of the following should Alan do next?
+A. Alan should attempt to get Elaina＊s daughter to sign the nonwaiver document.
+B. Alan should stop the investigation until Elaina agrees to sign the nonwaiver agreement.
+C. Alan should deny coverage of the claim because of Elaina＊s noncompliance.
+D. Alan should send Elaina a reservation of rights letter by certified mail with return receipt requested.
+
+D is correct (Obj 2 每 Type B).
+ 
+
+A reservation of rights letter is as effective as a nonwaiver agreement as long as receipt by the insured can be shown.
+
+13. Which one of the following statements is correct regarding the denial of a property insurance claim?
+A. Denial letters are typically sent by certified mail, return receipt requested.
+B. Denial letters should be signed by the attorney drafting them.
+C. When denying a claim, the insurer is usually given the benefit of the doubt in cases of questionable coverage.
+D. Insureds who disagree with the denial should contact an arbitrator to resolve the claim.
+
+A is correct (Obj 3 每 Type A).
+ 
+
+B is incorrect. A denial letter should be signed by the adjuster, even if drafted by an attorney.
+C is incorrect. When denying a claim, the insured is usually given the benefit of the doubt in cases of questionable coverage.
+D is incorrect. Insureds who disagree with the denial should be invited to submit additional information to strengthen their case.
+
+14. Which one of the following statements is correct regarding coverage denials?
+A. General denial letters can be rejected by courts for being too specific as to why coverage is being denied.
+B. For claims denied on the basis of fraud, it is wise to mark ※personal and confidential§ on the outside of the denial letter＊s envelope.
+C. Provided the claim falls within the insuring agreement, coverage cannot be denied.
+D. Denial letters that state specific coverage defenses are risky because most states don＊t permit insurers to raise additional coverage issues that aren＊t addressed in the letter.
+
+B is correct (Obj 3 每 Type A).
+
+A is incorrect. General denial letters invite litigation and may be rejected by courts because they don＊t adequately explain why coverage is being denied.
+C is incorrect. Even claims that fall within the insuring agreement and are not specifically excluded by the policy may not be covered if the insured violated policy conditions.
+D is incorrect. Most states allow insurers to raise other defenses as long as the insured was not prejudiced.
+
+15. Besides fraud, the two most common policy violations leading to coverage disputes are an insured＊s:
+A. Late reporting of losses and failure to cooperate with the insurer.
+B. Lack of a proof of loss document and late reporting of losses.
+C. Failure to cooperate with the insurer and failure to submit to an examination under oath.
+D. Lack of a proof of loss document and failure to submit to an examination under oath.
+
+A is correct (Obj 3 每 Type A).
+ 
+
+Other than fraud, the two most common policy violations leading to coverage disputes are an insured＊s late reporting of losses and failure to cooperate with the insurer.
+
+16. When an insured＊s late notice of loss adversely affects an insurer＊s ability to investigate a claim, the insurer is considered to be:
+A. Prohibited from declaring judgment.
+B. Estopped from rendering a decision.
+C. Prejudiced due to late notice.
+D. In a state of detrimental reliance.
+
+C is correct (Obj 3 每 Type A).
+ 
+
+A is incorrect. A declaratory judgment action is a legal action in which one party presents a coverage question to the court and asks the court to declare the rights of the parties under the applicable insurance policy.
+B is incorrect. Estoppel is a legal principle that prohibits a party from asserting a claim or right that is inconsistent with that party＊s past statement or conduct on which another party has detrimentally relied.
+D is incorrect. Detrimental reliance is a situation in which an insured relies on the words or actions of an insurer and that reliance harms the insured＊s financial position.
+
+17. Upon receiving authority to deny a claim, the property loss adjuster prepares a denial letter. All of the following statements are correct regarding the denial letter, EXCEPT:
+A. The letter should be marked personal and confidential.
+B. The letter should be prepared by the adjuster and signed by an attorney.
+C. The letter should be sent by certified mail, return receipt requested.
+D. The letter should be sent by regular mail.
+
+B is correct (Obj 3 每 Type A).
+ 
+
+A denial letter should be signed by the adjuster. An attorney is sometimes used to draft the letter, but it should be signed by the adjuster.
+
+18. Leticia, a claims representative for Three Rivers Insurance, has just concluded a thorough investigation of an insured＊s claim. Her conclusion that coverage does not apply has been reviewed and approved by management. Regardless of the state in which the claimant resides, all states require that coverage denials:
+A. Be issued within 30 days.
+B. Provide a detailed explanation of all coverage defenses.
+C. Be marked ※personal and confidential.§
+D. Are prompt, timely, and fair.
+
+D is correct (Obj 3 每 Type B).
+ 
+
+The only requirement consistent across all states is that denials are required to be prompt, timely, and fair.
+
+19. Tessa is a claims adjuster working on a water damage claim. The insured insists the water damage was caused by sewer backup and is covered under a policy endorsement. Tessa believes the water damage was caused by a flood and thus is excluded by the policy. To deny the claim, Tessa must:
+A. Thoroughly investigate the loss.
+B. Carefully analyze the coverage.
+C. Objectively evaluate the claim.
+D. All of the above.
+
+D is correct (Obj 3 每 Type B).
+ 
+
+Before denying a claim, the adjuster must have:
+
+Thoroughly investigated the loss.
+Carefully analyzed the coverage.
+Objectively and fairly evaluated the claim.
+
+
+20. Claims adjuster Alena has consulted with Vincent, the underwriter, and met with Hazel, her claims supervisor, concerning a large liability claim. The three of them agree that the claim has to be denied. Theo, an attorney, is asked to draft the denial letter. The denial letter should be signed by:
+A. Vincent, the underwriter.
+B. Alena, the claim adjuster.
+C. Hazel, the claim supervisor.
+D. Theo, the attorney.
+
+B is correct (Obj 3 每 Type B).
+ 
+
+The denial letter should always be signed by the adjuster, even if an attorney drafts it.
+
+21. As used in most insurance coverage claims, a declaratory judgment action is a lawsuit seeking a judicial determination of:
+A. Whether an insured intentionally caused the loss.
+B. Who is at fault for the loss.
+C. The amount the insurer needs to pay to settle a claim.
+D. Whether policy coverage applies to a claim.
+
+D is correct (Obj 4 每 Type A).
+ 
+
+Insurers normally file declaratory judgment actions to determine whether a claim:
+
+Falls within the insuring agreement.
+Meets the definition of a policy term.
+Falls within a policy exclusion.
+ 
+
+A is incorrect. Declaratory judgment actions do not determine if a loss was intentional.
+B is incorrect. Declaratory judgment actions do not determine fault.
+C is incorrect. Declaratory judgment actions do not address monetary damages.
+
+22. All of the following represent questions that could be resolved by a declaratory judgment action, EXCEPT:
+A. What are the limits of liability?
+B. Was the insured at fault with respect to the loss?correct
+C. Does a particular policy exclusion apply?
+D. Has the insured violated any policy conditions?
+
+B is correct (Obj 4 每 Type A).
+ 
+
+Declaratory judgment actions do not determine fault.
+
+23. Which one of the following statements is correct regarding declaratory judgment actions?
+A. If the underlying issues of a tort claim can be separated, courts will often refuse declaratory judgments.
+B. Insurers sometimes use declaratory judgment actions as an alternative to coverage denials to avoid bad-faith claims.
+C. A declaratory judgment action could be used to determine whether an insured motorist was liable for an accident.
+D. A declaratory judgment action can be used for a court to render advisory opinions on coverage.
+
+B is correct (Obj 4 每 Type A).
+ 
+
+A is incorrect. If the underlying issues of a tort claim can be separated, courts will often permit declaratory judgments.
+C is incorrect. Whether an insured motorist is liable for an accident is based on facts that must be resolved through liability lawsuits.
+D is incorrect. A court will not render ※advisory opinions§ on coverage but instead will require that there be an actual case in dispute.

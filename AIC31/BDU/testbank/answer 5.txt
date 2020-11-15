@@ -1,0 +1,314 @@
+1. Which one of the following would be considered an example of hard fraud?
+A. Misreporting a pre-existing condition on an application for a health insurance policy.
+B. Claiming more damage than actually occurred after an auto accident.
+C. Fabricating circumstances to give the appearance that a burglary has occurred.
+D. Inflating the value of property that was destroyed by a fire.
+
+C is correct (Obj 1 每 Type A).
+A is incorrect. Misreporting a pre-existing condition on an application for a health insurance policy is an example of soft fraud.
+B is incorrect. Claiming more damage than actually occurred after an auto accident is an example of soft fraud.
+D is incorrect. Inflating the value of property that was destroyed by a fire is an example of soft fraud.
+
+2. Which one of the following statements is correct regarding fraud detection and investigation?
+A. The Insurance Services Office has the technology to analyze receipts to determine whether they are forgeries or whether alterations have been made.
+B. One source of financial information an adjuster would find useful to investigate theft is information from credit reporting bureaus.
+C. Adjusters must be alert for indicators of fraud and once alerted, must prove fraud by having the insured sign a sworn proof of loss statement.
+D. Property loss adjusters must be vigilant for signs of fraud during the claims-adjusting process while at the same time avoiding the use of law enforcement officials.
+
+B is correct (Obj 1 每 Type A).
+
+A is incorrect. The National Insurance Crime Bureau has the technology to analyze receipts to determine whether they are forgeries or whether alterations have been made.
+C is incorrect. Adjusters must be alert for indicators of fraud and once alerted, must prove fraud by diligently gathering evidence.
+D is incorrect. Property loss adjusters must be vigilant for signs of fraud during the claims-adjusting process while at the same time conducting a good-faith investigation.
+
+3. When investigating fraud, adjusters can obtain financial information from:
+A. The Internal Revenue Service.
+B. Local tax assessors.
+C. The county registrar of deeds.
+D. Credit reporting agencies.
+
+D is correct (Obj 1 每 Type A).
+
+Financial information may be obtained from the United States Federal Bankruptcy Court and from credit reporting agencies.
+
+4. Which one of the following would be a potential indication of property insurance fraud?
+A. The insured is in no particular hurry to settle the outstanding claim.
+B. The insured handles all business through the use of the mail.
+C. The insured contacts the agent regarding coverage just prior to the date of a loss.
+D. The insured is not very knowledgeable with regard to insurance terminology.
+
+C is correct (Obj 1 每 Type A).
+
+A is incorrect. A potential indicator of insurance fraud would include an insured being overly pushy for a quick settlement.
+B is incorrect. A potential indicator of insurance fraud would include an insured that handles all business in person.
+D is incorrect. A potential indicator of insurance fraud would include an insured that is unusually knowledgeable with regard to insurance terminology and the claim settlement process.
+
+5. Which one of the following statements is correct regarding fraud?
+A. The Federal Mail Fraud Statute makes insurance fraud a crime when it affects interstate commerce.
+B. A staged or fictitious loss would be an example of soft fraud.
+C. Staged theft is probably the best-known example of how insureds create losses and commit property insurance fraud.
+D. The National Insurance Crime Bureau updates and publishes extensive lists of fraud indicators.
+
+D is correct (Obj 1 每 Type A).
+
+A is incorrect. The Violent Crime Control and Law Enforcement Act makes insurance fraud a crime when it affects interstate commerce.
+B is incorrect. A staged or fictitious loss would be an example of hard fraud.
+C is incorrect. Arson is probably the best-known example of how insureds create losses and commit property insurance fraud.
+
+6. Frank is a contractor and reported a theft of a bulldozer from the construction site he＊s currently working. Before settling Frank＊s claim, Susan, the adjuster, wants to conduct a used equipment search. Which one of the following is Susan＊s best resource for the search?
+A. The NER.
+B. The ISO.
+C. The ALR.
+D. The NICB.
+
+A is correct (Obj 1 每 Type B).
+
+The National Equipment Register contains information on heavy equipment, construction equipment, and agricultural equipment.
+
+7. Insured Walter has recently filed a claim for a fire loss halfway through the life of his policy. He has met with adjuster Abel several times, and while he appears nervous during their meetings, he insists on handling all business in person and tells Abel that he is okay with the process taking as long as necessary. Which one of the following might be a general indicator of property insurance fraud?
+A. Walter＊s nervous manner.
+B. Walter＊s insistence on handling business in person.
+C. Walter＊s lack of urgency in settling the claim.
+D. The claim happening in the middle of the policy period.
+
+B is correct (Obj 1 每 Type B).
+
+Walter＊s insistence on handling business in person, thus avoiding the use of the mail, is a general indicator of property insurance fraud.
+
+A is incorrect. A nervous manner in dealing with the adjuster is not a general indicator of property insurance fraud.
+C is incorrect. An insured being overly pushy for a quick settlement is a general indicator of property insurance fraud.
+D is incorrect. Losses that occur just after coverage takes effect, just before it ceases, or just after it has been increased is a general indicator of property insurance fraud.
+
+8. In attempting to void an insurance contract, which one of the following is the most difficult for the insurer to prove?
+A. Misrepresentation of opinion.
+B. Misrepresentation of fact.
+C. Concealment.
+D. Breach of warranty.
+
+C is correct (Obj 2 每 Type A).
+
+Concealment is the most difficult to prove because it is misrepresentation by silence.
+
+9. To void an insurance contract on grounds of a misrepresentation of fact, the insurance company must prove that the statement was:
+A. False only.
+B. False and material.
+C. Material and fraudulent.
+D. False, material, and fraudulent.
+
+B is correct (Obj 2 每 Type A).
+
+A misstatement of fact must be both false and material for the insurer to avoid the contract.
+
+10. Barbara recently applied for a life insurance policy on her life. Although she smokes two packs of cigarettes per day, on the insurance application, she indicated that she does not smoke. The type of behavior that Barbara has exhibited is referred to as:
+A. Bad faith.
+B. Adhesion.
+C. Nondisclosure.
+D. Concealment.
+
+D is correct (Obj 2 每 Type B).
+
+Concealment is an intentional failure to disclose a material fact. To establish concealment in a court, the insurer must prove that the insured knew the information should have been provided, and then intentionally withheld it.
+
+11. Chris applied for property insurance on his building with Davis Insurance. On the application, Chris estimated the value of the building at $300,000, when the value of the building was actually $260,000. Davis issued the policy based on this estimate. Which one of the following statements is correct regarding this scenario?
+A. Davis will be able to void the policy because Chris has made a material misrepresentation.
+B. Davis will be able to void the policy because Chris has breached a warranty.
+C. Davis will not be able to void the policy because Chris is not a valuation expert, and the misrepresentation was not material.
+D. Davis will not be able to void the policy because Chris gave an opinion and there was not fraudulent intent.
+
+D is correct (Obj 2 每 Type B).
+
+The representation of the value of property is an opinion, and the insurer can only void the contract if the insurer can prove that there was fraudulent intent.
+
+12. Which one of the following is a reason why adjusters often become suspicious of a fire loss?
+A. The insured＊s criminal record.
+B. The insured＊s behavior.
+C. Information from arson databases.
+D. Tips from neighbors.
+
+B is correct (Obj 3 每 Type A).
+
+Adjusters usually become suspicious of a fire loss because of the fire＊s physical circumstances or because of the insured＊s behavior.
+
+13. When an insured commits arson, the most common motive is:
+A. Vandalism.
+B. Financial.
+C. Criminal.
+D. Religious.
+
+B is correct (Obj 3 每 Type A).
+
+While vandalism is the leading cause of arson, financial need is the usual motive for an insured to commit arson.
+
+14. An incendiary fire is a fire that:
+A. Completely consumes the structure.
+B. Starts from an electrical short.
+C. Was intentionally set.
+D. Spreads slowly.
+
+C is correct (Obj 3 每 Type A).
+
+The definition of an incendiary fire is an intentionally set fire.
+
+15. Which one of the following is a reason why a fire may spread horizontally?
+A. Oxygen is not present.
+B. The floors are made of noncombustible material.
+C. The windows in the structure are open.
+D. It is trapped from moving upward by a ceiling or roof.
+
+D is correct (Obj 3 每 Type A).
+
+A fire will not spread horizontally except in these situations:
+
+It is trapped from moving upward by a ceiling or roof.
+A great deal of combustible material is present.
+An accelerant is present.
+
+
+16. Which one of the following statements is correct regarding tracing a fire＊s origin?
+A. Some fires begin as a small flame.
+B. A fire will traverse the floor of a room before it moves to the ceiling.
+C. Fires spread horizontally much more readily than they spread upward.
+D. A fire＊s point of origin usually burns longer and more intensely than does any other point.
+
+D is correct (Obj 3 每 Type A).
+
+A is incorrect. All fires begin as a small flame.
+B is incorrect. A fire should not traverse the floor of a room unless the ceiling is severely burned.
+C is incorrect. Fires spread upward much more readily than they spread horizontally.
+
+17. Which one of the following is correct regarding the origin and cause of suspicious fires?
+A. Intentionally set fires almost always progress like accidental fires.
+B. A fire investigator must prove the origin and cause of any suspicious fire before an adjuster can assert an arson defense.
+C. Fires that begin around, but outside of, electrical appliances are always accidental.
+D. Arsonists seldom use accelerants because they are easily detected.
+
+B is correct (Obj 3 每 Type A).
+
+A is incorrect. In almost all cases, intentionally set fires do not begin or progress like accidental fires.
+C is incorrect. Fires that begin around, but outside of, electrical appliances are suspicious.
+D is incorrect. Arsonists often use accelerants, such as gasoline, to accelerate the heat and spread of the fire.
+
+18. Which one of the following situations might give rise to suspicion regarding the insured＊s involvement in a fire?
+A. Several individuals are at the property at the time of the fire.
+B. The insured＊s copy of the insurance policy is on the premises at the time of the fire.
+C. The insured avoids using the U.S. Postal Service.
+D. The insured and their pets are staying at the premises at the time of the fire.
+
+C is correct (Obj 3 每 Type A).
+
+A is incorrect. If the insured is the only person at the property at the time of the loss, this could give rise to suspicion.
+B is incorrect. If the insured has a copy of the insurance policy that would normally be on the premises at the time of the fire, this could give rise to suspicion.
+D is incorrect. If the insured and his/her family and pets are staying at a temporary location at the time of the fire, this could give rise to suspicion.
+
+19. Which one of the following statements is correct regarding experts used when arson is suspected?
+A. Part of an adequate arson investigation is the examination under oath (EUO) usually conducted by an attorney.
+B. Origin-and-cause experts are often former private investigators.
+C. When public authorities investigate a suspicious fire, they usually obtain a statement from the adjuster.
+D. A restoration specialist is responsible for detecting, identifying, and preserving chemical residue from a fire scene.
+
+A is correct (Obj 4 每 Type A).
+
+B is incorrect. Origin-and-cause experts are often former fire department investigators.
+C is incorrect. When public authorities investigate a suspicious fire, they usually obtain a statement from the property owner.
+D is incorrect. A forensic chemist is responsible for detecting, identifying, and preserving chemical residue from a fire scene.
+
+20. A forensic chemist must be trained in preserving evidence:
+A. By another active forensic chemist.
+B. Through a two-year certification process.
+C. In a legally admissible manner.
+D. By the claims adjuster.
+
+C is correct (Obj 4 每 Type A).
+
+A forensic chemist＊s role in an arson investigation is to detect, identify, and preserve chemical residue from a fire scene, and to do so in a legally admissible manner.
+
+21. Which member of the arson team should an adjuster enlist to ensure a denial of claim is accomplished in a timely and effective manner?
+A. A public authority.
+B. An attorney.
+C. An accountant.
+D. A professional investigator.
+
+B is correct (Obj 4 每 Type A).
+
+An attorney can aid in a successful arson defense by:
+
+Helping with proper documentation of a good investigation with qualified experts.
+Ensuring a denial of claim is accomplished in a timely and effective manner.
+Filing a declaratory judgment action shortly after the denial is issued.
+
+
+22. By the time of an examination under oath, an adjuster should know as much about the insured＊s financial condition as the insured does. If an adjuster lacks sufficient training to understand the insured＊s financial condition, he or she should enlist the help of:
+A. An attorney.
+B. A private investigator.
+C. A certified financial professional.
+D. An accountant.
+
+D is correct (Obj 4 每 Type A).
+
+Few adjusters have sufficient training in accounting to get an adequate picture of the insured＊s finances, so involving an accountant in an arson investigation is important.
+
+23. Which one of the following statements is correct regarding burglary and theft?
+A. Burglaries and thefts are extremely difficult to stage.
+B. After a burglary or theft, the vast majority of the missing property is recovered.
+C. Adjusters should require a signed, sworn proof of loss with every burglary or theft claim.
+D. Most homeowners can document the majority of their personal property.
+
+C is correct (Obj 5 每 Type A).
+
+A is incorrect. Burglaries and thefts are easy to stage.
+B is incorrect. After a burglary or theft, the stolen property is rarely recovered.
+D is incorrect. Most homeowners cannot document most of their personal property, and adjusters should be creative and reasonable regarding documentation. Photos, videos, boxtops, and labels can be useful in documenting ownership when the receipt is no longer available.
+
+24. With commercial insureds, a typical fraudulent burglary involves:
+A. A claim for inventory that was never purchased.
+B. A crime ring of professional criminals.
+C. Relocating the ※stolen§ property.
+D. Forged evidence.
+
+C is correct (Obj 5 每 Type A).
+
+Since typical commercial fraudulent burglaries involve the insured relocating the ※stolen§ property, adjusters should canvass the neighborhood for witnesses of extensive moving operations, especially during irregular business hours.
+
+25. Which one of the following is an indicator of burglary or theft fraud?
+A. Insured＊s loss includes numerous family heirlooms.
+B. Insured provides receipt with no sales tax figures.
+C. Insured＊s loss only includes valuable items from home.
+D. Insured reported the burglary or theft to the policy and obtained a police report.
+
+A is correct (Obj 5 每 Type A).
+
+B is incorrect. A receipt provided with no sales tax figures is an indicator associated with the claims process.
+C is incorrect. An indicator of burglary or theft fraud is a loss that includes the total contents of a home, including items of little or no value.
+D is incorrect. If the insured did not notify the police, this could be an indication of burglary or theft fraud.
+
+26. Which one of the following is an indicator associated with the claims process as opposed to an indicator of burglary or theft fraud?
+A. The loss includes numerous appraised items.
+B. Loss inventory indicates an unusually high number of recent purchases.
+C. The loss is questionable.
+D. There is no police report in a situation where police would normally investigate.
+
+B is correct (Obj 5 每 Type A).
+
+A is incorrect. Loss including numerous appraised items is an indicator of burglary or theft fraud.
+C is incorrect. Loss that is questionable is an indicator of burglary or theft fraud.
+D is incorrect. No police report where police would normally investigate is an indicator of burglary or theft fraud.
+
+27. Which one of the following is the most likely explanation for an insured who has two or more policies covering the same loss and who does not disclose the multiple coverages to all insurers?
+A. The insured keeps poor records.
+B. The insured is embarrassed to admit his or her mistake.
+C. The insured is unaware that this can lead to insurance fraud.
+D. The insured has intended fraud from the outset.
+
+D is correct (Obj 5 每 Type B).
+
+An insured who has multiple policies covering a loss and who has not disclosed the multiple coverages is almost certainly intending fraud from the outset.
+
+28. Manuel, a claims adjuster, is suspicious of a claimant he is investigating. Manuel believes the claimant has multiple claims from a single loss. Which one of the following resources is Manuel＊s best option to confirm whether his suspicions are founded?
+A. A special investigation unit.
+B. The National Insurance Crime Bureau.
+C. An index system.
+D. The claimant＊s friends and family.
+
+C is correct (Obj 5 每 Type B).
+
+By using one of the index systems, an adjuster can detect multiple claims from the same loss or multiple claims involving the same property.

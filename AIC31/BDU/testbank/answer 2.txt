@@ -1,0 +1,545 @@
+1. Which of the following represents a condition that exists when a person derives a financial benefit from the continuous existence of an insured object?
+A. Financial arbitrage.
+B. Coverage extension.
+C. Indemnification.
+D. Insurable interest.
+
+D is correct (Obj 1 每 Type A).
+ 
+
+Insurable interest is an interest in an object that would cause the interested party to suffer financial loss if an insured event occurred.
+
+2. All of the following individuals would have an insurable interest in property, EXCEPT:
+A. Customer of a hotel.
+B. Tenant in an office building.
+C. Owner of an automobile.
+D. Mortgage holder on a house.
+
+A is correct (Obj 1 每 Type A).
+ 
+
+A customer of a hotel does not derive monetary benefit from the continued existence of the hotel. Therefore, the customer does not have an insurable interest.
+
+3. Which one of the following statements is correct regarding the burden of proof in establishing whether a cause of loss is covered?
+A. The claimant carries the burden of proof in both specified perils and open perils policies.
+B. The insurer carries the burden of proof in both specified perils and open perils policies.
+C. The claimant carries the burden of proof in a specified perils policy, and the insurer carries the burden of proof in an open perils policy.
+D. The insurer carries the burden of proof in a specified perils policy, and the claimant carries the burden of proof in an open perils policy.
+
+C is correct (Obj 1 每 Type A).
+ 
+
+When a claimant has a specified perils policy, the claimant has the obligation to determine which peril applies to the damaged property. In an open perils policy, the causes of loss to the property is covered unless they are specifically excluded. Therefore, if the insurer wishes to deny coverage for a claim, it must prove that the policy excludes the loss.
+
+4. The two most common methods for determining the amount recoverable for a covered loss are:
+A. Replacement cost and invoice value.
+B. Actual cash value and replacement cost.
+C. Agreed value and invoice value.
+D. Agreed value and actual cash value.
+
+B is correct (Obj 1 每 Type A).
+ 
+
+The two most common valuation methods are actual cash value and replacement cost.
+
+5. Which one of the following statements is correct regarding the ways in which laws and regulations affect insurance coverage?
+A. Regulations from insurance departments won＊t retroactively affect a policy so long as a policy＊s provisions are written with clear intent.
+B. Court decisions that affect policy coverage interpretation are usually applicable to other similar claims within the court＊s jurisdiction.
+C. Failure of an insurer to comply with Insurance Department regulations could result in termination of a policy.
+D. Court interpretations rarely differ from the intent of the insurer＊s underwriters.
+
+B is correct (Obj 1 每 Type A).
+ 
+
+A is incorrect. Although a policy may include provisions with seemingly clear intent, insurance departments may enact regulations, or courts may render decisions, that affect how the policy is interpreted.
+C is incorrect. Failure to comply with Insurance Department regulations could result in an insurer paying a claim that might not have been covered otherwise.
+D is incorrect. The interpretation that the court makes may differ greatly from what was intended by the insurer＊s underwriter.
+
+6. When personal property becomes so attached to real property that it becomes part of it, it is known as a(n):
+A. Improvement.
+B. Fixture.
+C. Betterment.
+D. Attachment.
+
+B is correct (Obj 2 每 Type A).
+ 
+
+A fixture is any personal property affixed to real property in such a way as to become part of the real property.
+
+7. Which one of the following best describes why the difference between real and personal property is important to insurance adjusters?
+A. There is a possibility of overlapping coverages.
+B. Different burden of proof requirements are involved.
+C. ISO forms value real property at actual cash value, and personal property at replacement cost.
+D. Concurrent causation only affects real property losses.
+
+A is correct (Obj 2 每 Type A).
+ 
+
+The distinction between real and personal property is important to insurance adjusters for several reasons, including:
+
+The possibility of overlapping coverages.
+The different valuation methods involved.
+The effect of coinsurance requirements.
+ 
+
+B is incorrect. The burden of proof is the same for real and personal property covered on the same form.
+C is incorrect. ISO forms often value real property at replacement cost and personal property at actual cash value.
+D is incorrect. Concurrent causation applies to both real and personal property.
+
+8. Which one of the following represents a provision in many property insurance policies that causes the insured to bear a portion of the loss incurred unless adequate insurance has been purchased?
+A. Coinsurance.
+B. Valuation.
+C. Burden of proof.
+D. Concurrent causation.
+
+A is correct (Obj 2 每 Type A).
+ 
+
+B is incorrect. Valuation is the method by which an insurer determines how much to pay for a loss.
+C is incorrect. Burden of proof is the duty of a party to prove the truth of the information that is in dispute.
+D is incorrect. Concurrent causation is a legal doctrine stating that if a loss can be attributed to two or more independent concurrent causes 每 one or more excluded by the policy and one covered 每 then the policy covers the loss.
+
+9. Which one of the following statements is correct regarding property?
+A. Overlapping coverage is more common with real property than with personal property.
+B. The tenant and landlord have joint ownership over improvements unless one party sells to the other party.
+C. Some property, such as drapes, can be considered as either personal property or fixtures.
+D. Intent is the single factor that determines whether property is real property or personal property.
+
+C is correct (Obj 2 每 Type A).
+ 
+
+A is incorrect. Overlapping coverages is more common with personal property than with real property.
+B is incorrect. All leases that allow tenants to install improvements and betterments usually provide (1) that the items can or must be removed at the end of the lease or (2) that ownership of the items will transfer to the landlord at the time of installation or at the end of the lease.
+D is incorrect. While intent is one factor in determining whether property is real property or personal property, there are other factors such as attachment and adaptation.
+
+10. Lisa owns a specialty food store in Kansas. Which one of the following would be classified as trade fixtures under her property insurance policy?
+A. Her desk in the manager＊s office.
+B. The light fixtures.
+C. The shelves used to display her inventory.
+D. The reusable water bottles sold in the store.
+
+C is correct (Obj 2 每 Type B).
+ 
+
+Trade fixtures are fixtures and equipment that may be attached to a building during a tenant's occupancy, with the intention that they be removed when the tenant leaves.
+
+11. With respect to property damage, to recover a loss amount, the insurable interest requirement must be satisfied:
+A. For at least one year after the expiration of the policy.
+B. At the time the insurance contract is entered into.
+C. When the loss occurs.
+D. Three or more months prior to the occurrence of the loss.
+
+C is correct (Obj 3 每 Type A).
+ 
+
+With respect to property loss exposures, an insured can recover losses resulting from property damage as long as there is an insurable interest in the property at the time of the loss.
+
+12. All of the following represent purposes of the insurable interest requirement, EXCEPT:
+A. To reimburse the appropriate individual.
+B. To eliminate adverse selection.
+C. To prevent gambling.
+D. To deter individuals from committing fraud.
+
+B is correct (Obj 3 每 Type A).
+ 
+
+The following are purposes of the insurable interest requirement:
+
+To deter intentional losses or fraud.
+To deter wagering (gambling).
+To make sure the correct person/entity is reimbursed for losses.
+
+13. Which one of the following statements is correct regarding the insurable interest requirement?
+A. It is limited to property owners.
+B. It is designed to deter people from committing fraud or intentionally causing loss.
+C. It is acquired by simply paying the policy premium.
+D. It prevents the use of replacement cost as a means of valuation.
+
+B is correct (Obj 3 每 Type A).
+ 
+
+A is incorrect. An insurable interest is not limited to property owners. Occupancy interests and security interests may also be considered insurable interests.
+C is incorrect. A person has an insurable interest if he or she would suffer a financial loss if property were damaged.
+D is incorrect. Replacement cost technically violates the indemnity concept of the insurable interest requirement. However, insurable interest does not prevent the use of replacement cost as a means of valuation.
+
+14. Someone who pays to use, possess, or occupy property belonging to another is a:
+A. Sole proprietor.
+B. Bailee.
+C. Consignee.
+D. Tenant.
+
+D is correct (Obj 3 每 Type A).
+ 
+
+A is incorrect. A sole proprietor is a person who owns the assets of the business and is personally liable for the business debts.
+B is incorrect. A bailee is a party temporarily possessing the personal property of another. A bailee would include a dry cleaner.
+C is incorrect. A consignee is a person or organization that receives property being transported by a carrier.
+
+15. Which one of the following statements is correct regarding the insurable interest requirement?
+A. Homeowners can purchase homeowners insurance in an amount no greater than the equity in their home.
+B. Assignees have the same protection as mortgagees under an insurance policy.
+C. A trustee has no insurable interest in the trust property he or she manages.
+D. In the event of a loss, a mortgagee is entitled to make a claim on a homeowners policy even if the insured＊s claim is denied.
+
+D is correct (Obj 3 每 Type A).
+ 
+
+A is incorrect. A homeowner is entitled to purchase enough insurance to protect both equity and debt. In other words, the homeowner can insure the full value of the home.
+B is incorrect. For an assignee that did not have an interest in the property at the time of the loss, it would not have claim for the damage except for the assignment of benefits.
+C is incorrect. The trustee has an insurable interest up to the full extent of the property value because he or she would be required to compensate the trust if the property were damaged.
+
+16. Which one of the following types of interests would represent a custody interest for the insurable interest requirement?
+A. Bailee.
+B. Mortgagee.
+C. Tax lienholder.
+D. Loss payee.
+
+A is correct (Obj 3 每 Type A).
+ 
+
+B is incorrect. A mortgagee would possess a security interest in property.
+C is incorrect. A tax lienholder would possess a security interest in property.
+D is incorrect. A loss payee would possess a security interest in property.
+
+17. An item of personal property was being transported via a common carrier when it was damaged. At the time of damage, a lien had been placed on the property. Which one of the following would have a custody interest in the property?
+A. The property owner.
+B. The lienholder.
+C. The common carrier.
+D. The insurance company.
+
+C is correct (Obj 3 每 Type A).
+ 
+
+Common carriers, bailees, and consignees all have a custody interest in property. Lienholders have a security interest in property.
+
+18. Priscilla and Julie run a small business together, each sharing in business profits and losses. Julie has invested $20,000 in the organization, and this is the extent of her liability should the business cease operations. Julie can be classified as a:
+A. Limited partner.
+B. General partner.
+C. Stockholder.
+D. Sole proprietor.
+
+A is correct (Obj 3 每 Type B).
+ 
+
+A limited partner shares in the profits and losses of the business. In addition, their liability is limited to their contributions to the partnership.
+
+19. Keri and Charlie Hamilton are friends with Juan Mendoza. They decide to purchase a cabin in the mountains together. Keri and Charlie have an 80% interest in the property, and Juan holds a 20% interest. If one of the parties dies, they can leave their interest to anyone they desire in their will. Keri, Charlie, and Juan are:
+A. Joint tenants with rights of survivorship.
+B. Tenants in common.
+C. Life tenants.
+D. A limited liability corporation.
+
+B is correct (Obj 3 每 Type B).
+ 
+
+When two or more persons own a piece of property, but each has a distinct fractional interest with no rights of survivorship, they own a tenancy in common interest.
+
+20. When his grandmother dies, John will be allowed to live in her Manhattan apartment for the rest of his life. At the time of John＊s death, the apartment will pass to John＊s nephew, George. John＊s interest in the apartment is a:
+A. Tenancy by the entireties.
+B. Life tenancy.
+C. Partnership.
+D. Joint tenancy with right of survivorship.
+
+B is correct (Obj 3 每 Type B).
+ 
+
+Someone entitled to a piece of real property＊s full use and possession for his or her life is known as a life tenant.
+
+21. Which one of the following statements is correct regarding the rights of those with insurable interests?
+A. Those who have an insurable interest are responsible for ensuring that they are appropriately named or qualify for coverage under the proper policies.
+B. Lienholders, assignees, and other security interest holders have the same protection under insurance policies as mortgagees.
+C. Loss payees have rights under insurance policies separate from the named insured＊s rights.
+D. Trustees are rarely listed as named insureds on policies insuring the property they are responsible for.
+
+A is correct (Obj 4 每 Type A).
+ 
+
+B is incorrect. Lienholders, assignees, and other security interest holders do not have the same protection as mortgagees. Mortgagees have priority in the case of foreclosure.
+C is incorrect. Mortgagees have rights under insurance policies separate from the named insured＊s rights; loss payees do not.
+D is incorrect. Trustees who have a long-term responsibility for the care of property are usually named on the policy as named or additional insureds.
+
+22. Which one of the following statements is correct regarding the mortgage clause contained in an insurance policy?
+A. The insurer will notify the mortgagee at least 30 days before a non-renewal of the policy.
+B. The rights and duties of the mortgagee are the same as those of the named insured.
+C. The mortgagee is entitled to make a claim even if the insured＊s claim can be denied.
+D. This clause is only included in policies covering buildings used for business purposes.
+
+C is correct (Obj 4 每 Type A).
+ 
+
+A is incorrect. If the insurer decides to cancel or not to renew the policy, the mortgagee will be notified at least 10 days before the date cancellation or non-renewal takes effect.
+B is incorrect. The mortgage clause gives the mortgagee rights and duties independent of the named insured.
+D is incorrect. A mortgage clause is included in all property policies written for buildings.
+
+23. Barbara purchases a house and intends to live in it with her son Trevor as co-owners. When Trevor applies for their homeowners insurance, who should be listed as the named insured(s)?
+A. Barbara.
+B. Trevor.
+C. The bank holding the mortgage on the house.
+D. Both Barbara and Trevor.
+
+D is correct (Obj 4 每 Type B).
+
+When a policy is purchased to protect certain property, the property owners should be listed on the policy as named insureds.
+
+24. Which one of the following statements is correct regarding duties after a loss?
+A. The Insurance Value provision gives the insurer a means to determine if it will provide coverage on a claim.
+B. Estoppel is the intentional relinquishment of a known right.
+C. To be meaningful, the proof of loss should be required at the end of the adjustment period.
+D. If the proof of loss is rejected, it must be rejected for a specific reason.
+
+D is correct (Obj 5 每 Type A).
+ 
+
+A is incorrect. The Examination Under Oath provision gives the insurer a means to determine if it will provide or deny coverage on a claim.
+B is incorrect. Waiver is the intentional relinquishment of a known right.
+C is incorrect. To be meaningful, the proof of loss should be required early in the adjustment period.
+
+25. Which one of the following is the legal principle that prohibits a party from asserting a claim or right that is inconsistent with that party＊s past statement or conduct on which another party has detrimentally relied?
+A. Waiver.
+B. Estoppel.
+C. Proof of loss.
+D. Nonwaiver agreement.
+
+B is correct (Obj 5 每 Type A).
+
+A is incorrect. A waiver is the intentional relinquishment of a known right.
+C is incorrect. Proof of loss is a statement of facts about a loss for which the insured is making a claim.
+D is incorrect. A nonwaiver agreement is a signed agreement indicating that during the course of investigation, neither the insurer not the insured waives rights under the policy.
+
+26. Which one of the following statements is correct regarding an insured＊s duties after a loss?
+A. The insured is always required to submit to an examination under oath after a loss.
+B. The insured＊s failure to comply with their duties could release the insurer from its duty to provide coverage.
+C. A claim cannot be denied solely on the grounds that the insured failed to cooperate with the insurer.
+D. The insured must provide a proof of loss to the insurer within one week of the loss.
+
+B is correct (Obj 5 每 Type A).
+ 
+
+A is incorrect. The insured has a duty to submit to an examination under oath only if requested by the insurer.
+C is incorrect. A failure to cooperate with the insurer can be grounds for claim denial.
+D is incorrect. The insured has a duty to provide a proof of loss to the insurer, usually within 60 days (or longer) of the insurer＊s request.
+
+27. It is critical for an insured to promptly notify the insurer of a loss because:
+A. The insurer is not required to cover a loss that is reported more than 30 days after the date of loss.
+B. The policy could expire before the claim can be settled.
+C. Losses that are not reported promptly are often an indication of fraud.
+D. The extent to which property is damaged often increases over time.
+
+D is correct (Obj 5 每 Type A).
+ 
+
+The extent to which property is damaged often increases over time if not addressed early.
+
+28. Which one of the following statements is correct regarding the insured＊s duty to prepare an inventory, allow inspections, and provide records?
+A. The insured must permit the insurer to examine the insured＊s records as often as reasonably required.
+B. Warranty cards and instruction manuals cannot replace bills and receipts to substantiate claim amounts.
+C. The insurer is only entitled to one inspection of damaged property.
+D. The insurer must be able to prove the loss and has a duty to prove if an item was not damaged.
+
+A is correct (Obj 5 每 Type A).
+ 
+
+B is incorrect. If the insured does not have bills or receipts, then photos, video, warranty cards, or instruction manuals usually suffice.
+C is incorrect. The insurer is entitled to more than one inspection if several inspections are reasonably required to complete the investigation.
+D is incorrect. The insured must be able to prove the loss. The insurer does not have a duty to prove that an item was not damaged or lost.
+
+29. A tree limb in Elliott＊s yard falls and smashes a hole in the roof of his house. Elliott documents the damage and repairs the hole in his roof the following day. One week later, he notifies his insurer of the loss. Will Elliott＊s insurer cover the loss?
+A. Yes, because Elliott took reasonable steps to protect the property from further damage.
+B. Yes, because Elliott notified the insurer promptly of the damage.
+C. No, because without hiring someone else to fix the damage, Elliott will not have a basis for a claim for reimbursement.
+D. No, because the insurer did not give Elliott permission to make final repairs to the property.
+
+D is correct (Obj 5 每 Type B).
+ 
+
+The provision that requires the insured protect the property from further damage does not give the insured permission to make final repairs to the property before the insurer inspects the damage.
+
+30. Wyatt is a claims adjuster and has been communicating with Sandy by phone about a small claim she has filed. Wyatt and Sandy have had a long-standing professional relationship, and while the policy requires a proof of loss, Wyatt tells Sandy she doesn＊t need to provide a proof of loss. Wyatt＊s actions are considered:
+A. A waiver.
+B. An estoppel.
+C. A nonwaiver agreeement.
+D. A rejection of proof of loss.
+
+A is correct (Obj 5 每 Type B).
+ 
+
+A waiver involves voluntarily and intentionally relinquishing a known contractual right.
+
+31. Marco suffered a property loss due to a fire. After he filed a claim, his insurer requested a proof of loss. All of the following are acceptable actions the insurer may take after Marco files the proof of loss, EXCEPT:
+A. Reject the proof of loss and give Marco an opportunity to refile a corrected proof of loss.
+B. Reject the proof of loss and allow Marco to make the next move without any further direction.
+C. Accept the proof of loss with modifications by the adjuster.
+D. Accept the proof of loss as submitted.
+
+C is correct (Obj 5 每 Type B).
+ 
+
+After the insured files a proof of loss, the insurer can choose one of these actions:
+
+Accept the proof of loss as submitted.
+Reject the proof of loss, using specific language as to why it is not acceptable, and give Marco an opportunity to refile a corrected proof of loss.
+Reject the proof of loss, giving specific reasons for the rejection, and allow Marco to make the next move without any further direction.
+
+
+32. Which one of the following statements is correct regarding an examination under oath (EUO)?
+A. An insurer＊s right to an EUO is waived when an adjuster takes an informal statement from the insured.
+B. An EUO often clarifies issues sufficiently for the adjuster to recommend acceptance of the claim as submitted.
+C. An adjuster should conduct an EUO when a claim is disputed.
+D. An EUO can be a valuable tool for an insurer when a claim needs to be subrogated.
+
+B is correct (Obj 6 每 Type A).
+ 
+
+A is incorrect. An insurer＊s right to an EUO is not waived when an adjuster takes an informal statement from the insured.
+C is incorrect. An adjuster should conduct an EUO as early as possible in the investigation.
+D is incorrect. An examination under oath (EUO) can be a valuable tool for an insurer when a fraudulent claim is suspected. The EUO can clarify issues, provide new avenues of investigation, or reinforce the adjuster＊s suspicion regarding the fraudulent nature of the claim.
+
+33. Which one of the following statements is correct regarding an examination under oath (EUO)?
+A. Statements by the insured to public officials do not waive the insurer＊s right to an EUO.
+B. An effective EUO requires the person conducting the examination to not be affiliated with the insurer.
+C. An adjuster is most likely to use an EUO to determine the value of items that are difficult to replace.
+D. The adjuster should obtain statements of the parties involved after requesting an EUO.
+
+A is correct (Obj 6 每 Type A).
+ 
+
+B is incorrect. An effective EUO requires the person conducting the examination to thoroughly establish the questions that must be asked.
+C is incorrect. An adjuster is most likely to use an EUO to resolve serious questions about a claim.
+D is incorrect. The adjuster should obtain statements of the parties involved before requesting an EUO.
+
+34. Which one of the following is a reason an adjuster would conduct an examination under oath?
+A. If the insured refuses to sign a nonwaiver agreement.
+B. If the claim takes longer than 60 days to settle.
+C. If the insured retains an attorney to communicate with the insurer.
+D. If the claim＊s validity or value is in question.
+
+D is correct (Obj 6 每 Type A).
+ 
+
+The adjuster should conduct an examination under oath if the claim＊s validity or value is in question or if the facts are unclear.
+
+35. Which one of the following statements is correct regarding an examination under oath (EUO)?
+A. The procedures for the EUO are mandated by the department of insurance.
+B. Anyone claiming benefits under the policy is subject to a demand for an EUO.
+C. The insured＊s attorney can cross-examine the examinee during an EUO.
+D. The EUO must be demanded before a formal proof of loss has been submitted.
+
+B is correct (Obj 6 每 Type A).
+ 
+
+A is incorrect. The procedures for the EUO vary by area and company.
+C is incorrect. The insured＊s attorney has no right to offer evidence or cross examine the examinee.
+D is incorrect. The examination under oath is a condition of the policy and can be demanded at any time by the insurer.
+
+36. Which one of the following is an acceptable way for an insured to provide answers for an examination under oath?
+A. An oral testimony given in person.
+B. A pre-recorded oral testimony.
+C. A notarized written testimony.
+D. An oral or written testimony given in front of a judge.
+
+A is correct (Obj 6 每 Type A).
+ 
+
+An insured required to give an examination under oath must appear in person and give oral testimony.
+
+ 
+
+B is incorrect. The oral testimony must be given in person.
+C is incorrect. Providing written answers is not sufficient.
+D is incorrect. Providing written answers is not sufficient.
+
+37. Which one of the following statements is correct regarding an examination under oath (EUO)?
+A. The insurer＊s right to an EUO is waived by the adjuster taking informal statements from the insured.
+B. The insurer demanding the examination under oath must include a specific date, time, and place in a demand letter.
+C. An EUO is requested by the insurer and can either be accepted or denied by the insured.
+D. An EUO is typically conducted by the adjuster.
+
+B is correct (Obj 6 每 Type A).
+ 
+
+A is incorrect. An insurer＊s right to an EUO is not waived when an adjuster takes an informal statement from the insured.
+C is incorrect. An EUO is demanded by the insurer, and the insured must submit to the EUO or else the claim may be denied by the insurer.
+D is incorrect. An EUO is typically conducted by an attorney.
+
+38. Which one of the following statements is correct regarding the process of giving an examination under oath?
+A. The examinee may invoke the Fifth Amendment right against self-incrimination.
+B. The insured must agree to submit to a polygraph test if one is deemed useful or necessary.
+C. The insurer＊s attorney or the adjuster questions the person being examined.
+D. The person examined must be represented by an attorney.
+
+C is correct (Obj 6 每 Type A).
+ 
+
+A is incorrect. The examinee cannot invoke the Fifth Amendment right against self-incrimination.
+B is incorrect. The insured need not submitted to a polygraph test.
+D is incorrect. The person examined might or might not be represented by an attorney.
+
+39. Which one of the following must be included in a demand letter in order for it to be legally binding?
+A. A definite time and place for the examination, as well as the name of the person who will be conducting the examination for the insurer.
+B. The records or documents that the examiner must produce and bring to the examination.
+C. The name, telephone number, and addresses of both the examiner and the examinee.
+D. A demand clearly stating that the insurer will withhold payment unless the insured appears for the examination under oath.
+
+A is correct (Obj 6 每 Type A).
+ 
+
+B is incorrect. The letter must include the records or documents that the examinee must produce and bring to the examination.
+C is incorrect. The letter must include the name, telephone number, and address of the person to contact if the examinee cannot, with good reason, be present for the examination.
+D is incorrect. The letter must include a demand clearly stating that the insurer is intent on conducting the examination under oath with the insured (or other examinee).
+
+40. Which one of the following should an insurer do if an examinee does not appear at the examination under oath＊s (EUO) appointed date and time and does not request that the EUO be rescheduled?
+A. Immediately cancel the policy.
+B. Reschedule the EUO and issue another demand letter.
+C. Send a reservation of rights letter stating that because the examinee failed to appear, coverage for the loss may be denied.
+D. Issue a subpoena to require the examinee is present at a rescheduled EUO.
+
+C is correct (Obj 6 每 Type A).
+ 
+
+When an examinee under an EUO does not request that the examination be rescheduled and does not appear at the appointed date and time, the insurer has three options:
+
+Do nothing further. In states in which an adjuster must respond to a proof of loss with a prescribed period, this is not an option if a proof has been filed.
+Send a letter requesting that the examinee contact the adjuster to reschedule the examination.
+Send a reservation of rights letter stating that because the examinee failed to appear, coverage for the loss may be denied.
+
+
+41. Which one of the following is an option for an insurer if an examinee appears for examination but does not have the demanded documentation?
+A. Request that the examinee retrieve the documents and return to the examination.
+B. Proceed with the examination without documentation and continue on a later date.
+C. Deny the claim for failure to comply with policy conditions.
+D. Require that the examinee sign a nonwaiver agreement and reservation of rights letter.
+
+B is correct (Obj 6 每 Type A).
+ 
+
+When an examinee appears for examination but does not have the demanded documentation, the insurer has two options:
+
+Proceed with the examination without documentation and continue on a later date when the examinee must return with the documents.
+Record that the person appeared but did not bring the demanded documents and reschedule the EUO for another date and time.
+
+
+42. Tom submitted a claim for a fire to his house, but he is also facing criminal charges for arson to the house. In this situation, which one of the following statements is correct regarding an examination under oath (EUO)?
+A. The insurer should deny the claim if Tom refuses the EUO until after the arson charges have been decided.
+B. The insured is waived from the EUO because of the proceeding criminal court examination.
+C. Unless the adjuster＊s investigation will be prejudiced by delay, the claim investigation should be suspended until the insured can cooperate.
+D. The insurer is estopped from requesting an EUO.
+
+C is correct (Obj 6 每 Type B).
+ 
+
+A is incorrect. If the insured refuses the EUO until after the arson charges have been decided and the insurer refuses to wait and denies the claim for violating the EUO condition, the insurer could become guilty of bad faith.
+B is incorrect. Criminal charges against the insured do not eliminate the insured＊s contractual obligation to appear for an EUO.
+D is incorrect. The insurer has not done anything that would constitute estoppel in this situation.
+
+43. Susan sustained damage to her home following a fire. She filed a claim with her insurer and submitted a proof of loss, but then refused to sign a nonwaiver agreement. She also stopped responding to the adjuster＊s phone calls. The insurer scheduled an examination under oath (EUO) and sent Susan a demand letter, but Susan did not appear to the EUO. What would be the insurer＊s best course of action in this situation?
+A. Deny the claim.
+B. Do nothing further.
+C. File a civil suit against Susan for breach of contract.
+D. Send a reservation of rights letter to Susan indicating coverage may be denied.
+
+D is correct (Obj 6 每 Type B).
+ 
+
+A is incorrect. The insurer would need to send a reservation of rights letter stating that because the examinee failed to appear, coverage for the loss may be denied.
+B is incorrect. In states in which an adjuster must respond to a proof of loss with a prescribed period, doing nothing further is not an option if a proof of loss has been filed.
+C is incorrect. Filing a civil suit is not an appropriate response in this instance.

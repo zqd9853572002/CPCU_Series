@@ -1,0 +1,249 @@
+1. Which one of the following types of insurance policies is usually purchased to provide coverage for risks associated with transportation, bailee liability, jewelry, and contractors＊ equipment?
+A. Inland marine insurance.
+B. Building and Personal Property (BPP) insurance.
+C. Business Income Coverage (BIC) insurance.
+D. Crime insurance.
+
+A is correct (Obj 1 每 Type A).
+Inland marine insurance is insurance that covers a variety of risks. Inland marine policies can cover transportation liability, bailee liability, warehouse liability, and liability for other types of property.
+
+2. Which one of the following would be eligible for coverage under an inland marine policy?
+A. A home located 300 miles from the ocean in a tornado prone area.
+B. Liability exposure for a moving company that transports the personal property of others using company trucks.
+C. Company-owned auto liability exposure for a florist who offers delivery service.
+D. Unsold inventory of a candle manufacturer stored in the company＊s warehouse.
+
+B is correct (Obj 1 每 Type A).
+
+Liability exposure for damage to cargo of others being transported in the company＊s trucks could be covered in a motor truck cargo liability policy, a common type of inland marine policy.
+
+3. Which one of the following statements is correct regarding transportation loss exposures?
+A. Even a service organization that sells no goods may be exposed to loss of property in transit.
+B. After title to property has passed to the buyer, the seller remains liability for any transportation losses.
+C. The charter is the person or organization that receives the property being transported.
+D. Transportation loss exposures are limited to the possibility of loss to the vehicle transporting the property.
+
+A is correct (Obj 1 每 Type A).
+ 
+B is incorrect. After title to property has passed to the buyer, the buyer will suffer the loss if a shipment is damaged in transit.
+C is incorrect. The consignee is the person or organization that receives the property being transported.
+D is incorrect. In the context of inland marine policies, transportation loss exposures are limited to the possibility of loss to the property being transported (not the vehicle transporting the property).
+
+4. Which one of the following terms of sale would cause the buyer of merchandise to assume responsibility for a loss as soon as the merchandise is placed alongside the transportation vessel at the port named in the terms?
+A. Ex Point of Origin.
+B. FOB Vessel.
+C. FAS Vessel.
+D. CIF.
+
+C is correct (Obj 1 每 Type A).
+
+A is incorrect. Ex point of origin is when the buyer takes delivery of the goods at the point of origin.
+B is incorrect. FOB (Free on Board) Vessel is when the buyer assumes responsibility for loss as soon as the goods are placed aboard the vessel at port named in the terms.
+D is incorrect. Under CIF (Cost, Insurance, Freight) terms of sale, the buyer assumes responsibility for loss as soon as the goods are placed into the custody of the ocean carrier or delivered on board the vessel.
+
+5. Which one of the following represents a defense available to a common carrier?
+A. Suspension of operations.
+B. Inherent vice.
+C. Bill of lading expiration.
+D. Neglect by the motor carrier.
+
+B is correct (Obj 1 每 Type A).
+
+The bill of lading is a contract of carriage for goods.
+
+The exceptions to common-carrier liability are:
+
+Acts of God
+Acts of a public enemy
+Exercise of public authority
+Shipper＊s fault or neglect
+Inherent vice
+
+
+6. Inherent vice represents a:
+A. Travel contract in which transportation is hired for a specific trip.
+B. Document given by a carrier that acknowledges the receipt of goods from a shipper.
+C. Quality or condition of property that tends to make the property destroy itself.
+D. Natural and unavoidable catastrophe that interrupts the expected course of events.
+
+C is correct (Obj 1 每 Type A).
+ 
+A is incorrect. A charter is a travel contract in which transportation is hired for a specific trip.
+B is incorrect. A bill of lading is a document given by a carrier that acknowledges the receipt of goods from a shipper.
+D is incorrect. An Act of God is a natural and unavoidable catastrophe that interrupts the expected course of events.
+
+7. Which one of the following statements is correct regarding rules and regulations applicable to carriers of goods?
+A. The U.S. Carriage of Goods by Sea Act (COGSA) holds a water carrier liable for losses caused by neglect by the crew of the vessel.
+B. Under the rules of the Warsaw Convention, an air carrier is not liable for loss to property if the carrier can prove that it took all of the necessary steps to avoid the loss.
+C. The U.S. Carriage of Goods by Sea Act (COGSA) generally holds a water carrier liable for losses caused by the unseaworthiness of the vessel.
+D. The rules of the Warsaw convention generally apply to carriers of goods by water if the goods are shipped within the continental United States.
+
+B is correct (Obj 1 每 Type A).
+ 
+
+A is incorrect. The U.S. Carriage of Goods by Sea Act (COGSA) excuses the water carrier of liability for loss caused by neglect by the crew of the vessel.
+C is incorrect. The U.S. Carriage of Goods by Sea Act (COGSA) generally relieves the water carrier from liability for losses caused by unseaworthiness of the vessel.
+D is incorrect. The rules of the Warsaw convention apply to air carriers engaged in international service.
+
+8. An annual transit policy would most likely exclude coverage for which one of the following items?
+A. Soft drinks.
+B. Jewelry.
+C. Toys.
+D. Books.
+
+B is correct (Obj 2 每 Type A).
+ 
+
+Insurers typically exclude jewelry, furs, and precious metals from coverage under a transit policy, because these items are generally susceptible to theft.
+
+9. With respect to transit insurance claims, which one of the following represents the primary document used to evaluate the liability of the carrier and confirm the origin, destination, and other terms of transportation?
+A. Inspection record.
+B. Purchase document.
+C. Bill of lading.
+D. Shipping invoice.
+
+C is correct (Obj 2 每 Type A).
+
+
+The bill of lading is the primary document used to evaluate the liability of the carrier and confirm the origin, destination, and other terms of transportation. The bill of lading includes the terms of the contract of carriage for the goods.
+
+10. Which one of the following statements is correct regarding annual transit insurance?
+A. Annual transit policies value covered property at replacement cost.
+B. Most annual transit policies cover property on a named-perils basis.
+C. Annual transit policies only cover cargo on a specific trip.
+D. Annual transit policies typically exclude precious metals from coverage.
+
+D is correct (Obj 2 每 Type A).
+
+A is incorrect. Property covered under an annual transit policy is usually valued at the amount indicated on the invoice.
+B is incorrect. Most annual transit policies cover property on an open perils basis, with no exclusions for flood or earthquake.
+C is incorrect. Trip transit insurance covers cargo on a specific trip. Annual transit insurance covers all shipments made or received by the insured during the policy period, which is usually one year.
+
+11. The main reason insureds purchase transit insurance is because it:
+A. Is relatively inexpensive.
+B. Helps settle losses faster.
+C. Provides broad coverage.
+D. Covers property not covered by other policies.
+
+B is correct (Obj 2 每 Type A).
+
+Transit insurance helps settle losses faster by allowing insureds to make claims with their own insurance companies instead of dealing with motor carriers or freight brokers.
+
+12. Which one of the following losses would be covered by a Motor Truck Cargo Liability policy?
+A. Furniture that is damaged when an earthquake overturns the trailer.
+B. Damage to the truck when the driver falls asleep at the wheel.
+C. Books that are damaged by rain when the door of the trailer is left open 
+D. Injury to the driver when faulty wiring causes the truck engine to catch fire.
+
+C is correct (Obj 3 每 Type A).
+
+MTC liability policies only apply to cargo damage for which the motor carrier is legally liable.
+
+13. Which one of the following statements is correct regarding Motor Truck Carrier (MTC) Liability coverage?
+A. An MTC policy typically excludes coverage for property susceptible to theft.
+B. An MTC policy provides coverage even if the insured is not legally liable for the loss.
+C. An MTC policy can only be written on a scheduled-vehicle basis.
+D. An MTC policy represents direct property insurance that benefits the cargo owner.
+
+A is correct (Obj 3 每 Type A).
+
+B is incorrect. For MTC liability coverage to apply, the damaged property and cause of loss must both be covered and the insured must be legally liable for the loss.
+C is incorrect. The coverage can be written on either a scheduled-vehicle or blanket/gross receipt basis.
+D is incorrect. An MTC policy represents a liability policy. It is not direct property insurance that benefits the cargo owner.
+
+14. If a released value bill of lading applies, the motor carrier is responsible for:
+A. The entire loss.
+B. A portion of the loss.
+C. None of the loss.
+D. Punitive damages.
+
+B is correct (Obj 3 每 Type A).
+ 
+
+A released value bill of lading is one in which the carrier charges a lower freight rate in return for the shipper＊s allowing the carrier to limit its liability for cargo losses.
+
+15. Which one of the following statements is correct regarding contractors equipment insurance?
+A. Loss payable provisions are common in contractors equipment policies.
+B. Coverage is usually written using the agreed value method.
+C. If newly-acquired equipment is not listed on the schedule, it is not covered.
+D. Coverage is only available on a specified perils basis.
+
+A is correct (Obj 4 每 Type A).
+ 
+
+B is incorrect. Replacement cost and actual cash value are the most common valuation methods for contractors equipment coverage.
+C is incorrect. Contractors equipment policies will generally provide a grace period for adding newly acquired equipment and may be written on an automatic-acquisition basis.
+D is incorrect. Coverage may be on an open perils or a specified perils basis.
+
+16. If the cost to repair damaged property plus its remaining salvage value is greater than the property＊s pre-loss value, this is referred to as a:
+A. Stop loss.
+B. Salvage loss.
+C. Constructive total loss.
+D. Coinsurance loss.
+
+C is correct (Obj 4 每 Type A).
+
+A constructive total loss in one in which the cost to repair the damaged property plus its remaining salvage value is greater than the property＊s pre-loss value.
+
+17. A contracting company would like to purchase a policy that would cover its tools and equipment kept in employees＊ vehicles. The company should purchase a(n):
+A. Builders risk policy.
+B. Contractors equipment floater.
+C. Motor Truck Cargo liability policy.
+D. Inland Marine Liability policy.
+
+B is correct (Obj 4 每 Type B).
+
+A contractors equipment floater is a policy that covers mobile equipment or tools while located anywhere in the coverage territory.
+
+18. William is a claims representative who has been assigned a loss involving the damage to several bulldozers owned by Rogers & Associates. Which one of the following experts is most likely to be needed by William in this situation?
+A. A salvor.
+B. A fraud investigator.
+C. An accountant.
+D. A heavy-equipment appraiser.
+
+D is correct (Obj 4 每 Type B).
+
+Heavy-equipment appraisers generally meet minimum levels of experience and training in determining heavy-equipment loss values.
+
+19. Various incidental expenses that may result from physical loss or from a delay in completion of a construction project are known as:
+A. Constructive costs.
+B. Continuing costs.
+C. Extra costs.
+D. Soft costs.
+
+D is correct (Obj 5 每 Type A).
+
+Soft costs are those such as interest, real estate tax, advertising, architects and engineers fees, and legal and accounting fees that may result from physical loss or from a delay in completion of a construction project.
+
+20. Which one of the following statements is correct regarding builders risk (BR) policies?
+A. BR policies are always written on a specified perils basis.
+B. BR policies usually cover loss resulting from faulty design, specifications, materials, and work.
+C. BR policies sometimes provide a coverage extension for losses resulting from operational testing.
+D. BR policies almost always cover hidden or latent defects and mechanical breakdown.
+
+C is correct (Obj 5 每 Type A).
+
+A is incorrect. Builders risk policies usually apply on an open perils basis.
+B is incorrect. Builders risk policies usually exclude loss resulting from faulty design, specifications, materials, and work.
+D is incorrect. Many builders risk policies exclude hidden or latent defects and mechanical breakdown of any kind.
+
+21. For contractors involved in several projects simultaneously, builders risk policies can be written on a(n):
+A. Constructive loss basis.
+B. Actual cash value basis.
+C. Reporting basis.
+D. Automatic renewal basis.
+
+C is correct (Obj 5 每 Type A).
+
+As the purpose of builders risk policies is to cover the insured property only until the building is completed, contractors that have several projects in progress at once may choose a policy written on a reporting basis.
+
+22. While investigating a builders risk claim, which one of the following people would it be the most useful for the claims representative to take a statement from in order to understand the facts of the loss, parties involved, and extent of the damage?
+A. Clerk of the works.
+B. Project foreman.
+C. Owner of the property.
+D. Origin-and-cause expert.
+
+A is correct (Obj 5 每 Type A).
+ 
+
+A clerk of the works is an employee of a contractor who has sole responsibility for the daily supervision of each project component to ensure that materials, methodology, and quality of workmanship meet engineering specifications.

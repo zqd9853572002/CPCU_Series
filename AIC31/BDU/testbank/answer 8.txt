@@ -1,0 +1,532 @@
+1. Which one of the following statements is correct regarding coverage for Business Income and Extra Expense claims?
+A. The claims rep may need to verify through the insured＊s legal documents of organization that the claimant is listed as the named insured.
+B. To recover under the policy, the claimant need only have an insurable interest in the damaged property when the policy was initiated.
+C. Coverage will automatically end on the date the policy expires, even if this date is prior to the end of the period of restoration.
+D. Payments for extra expenses have no effect on payments for business income losses.
+
+A is correct (Obj 1 每 Type A).
+
+B is incorrect. To recover under the policy, the claimant must have an insurable interest in the damaged property at the time of the loss.
+C is incorrect. The policy in effect at the time of the direct physical loss will apply to the entire business income loss, even if the policy expires prior to the end of the period of restoration.
+D is incorrect. The Business Income and the Extra Expense insuring agreements are subject to a single limit of insurance.
+
+2. Under a Business Income Coverage Form, the period of restoration ends:
+A. 72 hours after the direct physical loss occurs to the covered property.
+B. On the policy expiration date.
+C. When the property is restored to use with reasonable speed.
+D. 90 days after the direct physical loss occurs to the covered property.
+
+C is correct (Obj 1 每 Type A).
+The period of restoration ends when the property is (or should have been) restored to use with reasonable speed.
+
+3. Which one of the following statements is correct regarding business income coverage?
+A. Business income is defined as the gross profits that were earned for the prior three years of operation.
+B. The policy requires the insured to repair, replace, or rebuild the damaged property within 60 days.
+C. Coverage will only apply if the business is forced to completely shut down for a period of time.
+D. The policy conditions require the insured to provide its books and records to the insurer for review.
+
+D is correct (Obj 1 每 Type A).
+ 
+
+A is incorrect. Business income has two elements: 1 - net profit or loss that would have been earned or incurred had there been no suspension of operations, and 2 - the organization＊s normal operating expenses that continue during the suspension of operations.
+B is incorrect. The policy requires the insured to use reasonable speed to repair, replace, or rebuild the damaged property.
+C is incorrect. Coverage will apply during a suspension of operations, which includes a slowdown of the business operations.
+
+4. Which one of the following coverage extensions to the Business Income (and Extra Expense) Coverage Form is payable in addition to the policy limit?
+A. Civil Authority.
+B. Interruption of Computer Operations.
+C. Extended Business Income.
+D. Alterations and New Buildings.
+
+B is correct (Obj 1 每 Type A).
+ 
+
+Payments made under Civil Authority, Alterations and New Buildings, and Extended Business Income do not increase the stated policy limit.
+
+5. Which one of the following statements is correct regarding Business Income and Extra Expense exposures?
+A. Business Income and Extra Expense coverage is the most common way to protect against a decrease in brand loyalty.
+B. Organizations that earn significantly different amounts of income at different times of the year should assume that the interruption will occur at the worst possible time.
+C. Business Income and Extra Expense coverage is the best way to cover exposures from the death or disability of a key employee.
+D. A disaster recovery plan is most important in analyzing business income exposures because it is often required by the insurer.
+
+B is correct (Obj 1 每 Type A).
+ 
+
+A is incorrect. Noninsurance techniques are the most common way to protect against a decrease in brand loyalty.
+C is incorrect. Loss of business income resulting from the death or disability of key employees is a loss exposure best addressed with life insurance or disability insurance.
+D is incorrect. The most important reason for having a disaster recovery plan in place in advance of any loss is to help facilitate recovery in the event of a loss.
+
+6. All of the following optional coverages can be purchased by an insured to omit or suspend the Coinsurance condition, EXCEPT:
+A. Extended Period of Indemnity.
+B. Maximum Period of Indemnity.
+C. Monthly Period of Indemnity.
+D. Business Income Agreed Value.
+
+A is correct (Obj 1 每 Type A).
+
+The Extended Period of Indemnity optional coverage does not omit or suspend the Coinsurance condition, rather it extends the Extended Business Income additional coverage from 60 days up to two years.
+
+7. In the ISO Business Income Coverage forms (BIC), which one of the following terms represents the duration of time during which business income loss is covered?
+A. Period of restoration.
+B. Suspension.
+C. Tenability.
+D. Operations.
+
+A is correct (Obj 1 每 Type A).
+
+The ※period of restoration§ is defined as the period during which business income loss is covered under the BIC forms.
+
+B is incorrect. ※Suspension§ is defined as the slowdown or cessation of business activities or, or in the case of rental value coverage, that a part of the premises is rendered untenable (unfit for occupancy).
+C is incorrect. ※Tenability§ is defined as suitability for occupancy.
+D is incorrect. ※Operations§ are the business activities of the insured that occur at a premises described in the declarations.
+
+8. The accounting equation is best represented by the formula:
+A. Assets - Liabilities = Owner＊s Equity
+B. Assets + Liabilities = Net Worth
+C. Revenue - Expenses = Net Worth
+D. Revenue + Liabilities = Owner＊s Equity
+
+A is correct (Obj 2 每 Type A).
+ 
+
+The accounting equation is reflected by the balance sheet. It is represented by the formula ※Assets - Liabilities = Owner＊s Equity.§
+
+9. Which one of the following statements is correct regarding basic accounting for organizations?
+A. The difference between a business＊s revenue and its cost of goods sold is its expenses.
+B. The important elements of the income statement are revenue and liabilities.
+C. Net income is the difference between revenues and expenses.
+D. The financial record that is a snapshot of the organization in a given moment in time is the income statement.
+
+C is correct (Obj 2 每 Type A).
+
+A is incorrect. The difference between a business＊s revenue and its cost of goods sold is its gross profit.
+B is incorrect. The important elements of the income statement are revenue and expenses.
+D is incorrect. The financial record that is a snapshot of the organization in a given moment in time is the balance sheet.
+
+10. Which of the following statements is correct regarding a company＊s balance sheet?
+A. It reflects the company＊s operations over a period of time.
+B. It includes a reconciliation of the company＊s cash accounts.
+C. Both tangible and intangible assets are reflected in the total assets section of the balance sheet.
+D. Owners＊ equity is shown on the assets side of the balance sheet because a business owns its net worth.
+
+C is correct (Obj 2 每 Type A).
+
+A is incorrect. A balance sheet reflects a company＊s assets, liabilities, and owner＊s equity on a single date (at a given point in time).
+B is incorrect. The statement of cash flows shows a reconciliation of the company＊s cash accounts.
+D is incorrect. Owners＊ equity is shown on the liabilities side of the balance sheet because a business does not own its net worth. The business owes its net worth to the owners.
+
+11. An insurer＊s balance sheet can be described as a financial statement that shows the relationship between:
+A. Revenues and losses.
+B. Assets, liabilities, and equity.
+C. Assets and income.
+D. Revenues and liabilities.
+
+B is correct (Obj 2 每 Type A).
+
+Similar to a non-insurer＊s GAAP-based balance sheet, an insurer＊s GAAP-based balance sheet shows the relationship between assets, liabilities, and equity.
+
+12. Which one of the following expenses would be considered a general operating expense of a business?
+A. Commissions.
+B. Cost of materials used to ship goods.
+C. Cost of goods sold.
+D. Advertising.
+
+D is correct (Obj 2 每 Type A).
+ 
+
+A is incorrect. Commissions are considered an expense directly related to sales.
+B is incorrect. Cost of materials used to ship goods is considered an expense directly related to sales.
+C is incorrect. Cost of goods sold is considered an expense directly related to sales.
+
+13. Expenses that continue to be incurred during a business interruption are known as which of the following?
+A. Net income.
+B. Extra expenses.
+C. Continuing expenses.
+D. Noncontinuing expenses.
+
+C is correct (Obj 2 每 Type A).
+ 
+
+A is incorrect. Net income is the difference between revenues (such as money received for goods or services) and expenses (such as money paid for merchandise, rent, and insurance).
+B is incorrect. Extra expenses are expenses, in addition to ordinary expenses, that an organization incurs to mitigate the effects of a business interruption.
+D is incorrect. Noncontinuing expenses are expenses that will not continue during a business interruption.
+
+14. Expenses, in addition to ordinary expenses, that an organization incurs to mitigate the effects of a business interruption are known as which of the following?
+A. Net income.
+B. Extra expenses.
+C. Continuing expenses.
+D. Noncontinuing expenses.
+
+B is correct (Obj 2 每 Type A).
+
+A is incorrect. Net income is the difference between revenues (such as money received for goods or services) and expenses (such as money paid for merchandise, rent, and insurance).
+C is incorrect. Continuing expenses are expenses that continue to be incurred during a business interruption.
+D is incorrect. Noncontinuing expenses are expenses that will not continue during a business interruption.
+
+15. Which one of the following items would appear on a company＊s balance sheet?
+A. Payroll expense.
+B. Depreciation.
+C. Inventory.
+D. Cost of goods sold.
+
+C is correct (Obj 2 每 Type A).
+ 
+
+A is incorrect. Payroll expense would appear on an income statement.
+B is incorrect. Depreciation would appear on an income statement.
+D is incorrect. Cost of goods sold would appear on an income statement.
+
+16. ABC Company experienced the following:
+Revenues 每 $5,000,000
+Assets 每 $9,000,000
+Liabilities 每 $8,000,000
+Expenses 每 $2,000,000
+What is ABC Company＊s net income?
+
+A. $1,000,000.
+B. $3,000,000.
+C. $4,000,000.
+D. $6,000,000.
+
+B is correct (Obj 2 每 Type B).
+
+Net income is calculated as revenues less expenses. Therefore, ABC Company＊s net income is $3,000,000 ($5,000,000 - $2,000,000).
+
+17. Stacy owns a custom furniture business. On her income statement, she reflected the following amounts:
+Revenue from gross sales 每 $1,200,000
+Cost of goods sold 每 $650,000
+Wages paid 每 $200,000
+Utilities expense 每$40,000
+Other expenses 每 $30,000
+What was the net income for Stacy＊s business?
+
+B. $300,000.
+C. $350,000.
+D. $550,000.
+A. $280,000.
+
+A is correct (Obj 2 每 Type B).
+ 
+
+Net income is calculated as revenue less expenses. Therefore, Stacy＊s net income is:
+Revenue from gross sales 每 $1,200,000
+Less: Cost of goods sold 每 $650,000
+Less: Wages paid 每 $200,000
+Less: Utilities expense 每 $40,000
+Less: Other expenses 每 $30,000.
+Equals: $280,000
+
+18. Tom has a limo business. His balance sheet reflects cash of $60,000, accounts receivable of $30,000, and office equipment of $20,000. He has an auto loan against his limos in the amount of $70,000. In addition, he has accounts payable of $10,000. What is the net worth of Tom＊s business?
+A. $30,000.
+B. $40,000.
+C. $100,000.
+D. $110,000.
+
+A is correct (Obj 2 每 Type B).
+
+The net worth of a business is calculated as assets less liabilities.
+
+Total assets:
+Cash 每 $60,000
+Accounts receivable 每 $30,000
+Office equipment 每 $20,000
+Equals: total assets 每 $110,000
+
+Total liabilities:
+Auto loan 每 $70,000
+Accounts payable 每 $10,000
+Equals: total liabilities 每 $80,000
+
+Net worth = $110,000 - $80,000 = $30,000
+
+19. On his income statement, Eric＊s annual revenue from gross sales was $500,000. He pays out a 5% commission on his gross sales. Cost of goods sold was $300,000, and he paid salaries of $130,000. Eric＊s modified gross profit is:
+A. $45,000.
+B. $175,000.
+C. $200,000.
+D. $300,000.
+
+B is correct (Obj 2 每 Type B).
+
+Modified gross profit is calculated as the net sales after commissions, less cost of goods sold.
+
+Gross sales 每 $500,000
+Less: commissions 每 $25,000 ($500,000 x 5%)
+Less: cost of goods sold 每 $300,000
+Equals: modified gross profit 每 $175,000
+
+20. Business income losses can be measured in terms of net income. Ian＊s Inflatables recently experienced $40,000 in expenses and $60,000 in revenue. What is Ian＊s Inflatables＊ net income?
+A. $20,000.
+B. $40,000.
+C. $60,000.
+D. $100,000.
+
+A is correct (Obj 2 每 Type B).
+
+Net income = Revenues - Expenses = $60,000 - $40,000 = $20,000
+
+21. If an organization suffers a property loss due to a covered peril, but the insurance company has yet to pay the claim, the outstanding claim will appear on the organization＊s balance sheet as:
+A. Revenue for ※Insurance Claim Income.§
+B. An expense for ※Cost of Goods Sold.§
+C. An asset for ※Insurance Claim Receivable.§correct
+D. A liability for ※Insurance Claim Payable.§
+
+C is correct (Obj 3 每 Type A).
+
+When a policy covers a peril, but the insurance company has yet to pay the proceeds to the insured, the insured would reflect the outstanding insurance payment as an asset. This asset would be described as ※Insurance Claim Receivable§ on the balance sheet.
+
+22. Which one of the following statements is correct regarding the ways in which losses can affect an organization＊s financial statements?
+A. Calculating a loss of revenue is most difficult when a business＊s sales do not fluctuate.
+B. Typical insurance claims for direct physical loss only affect an insured＊s income statement.
+C. The subject of most property insurance claims is loss of business income during the period of restoration.
+D. Net income can be reduced by either lower revenue or increased expenses.
+
+D is correct (Obj 3 每 Type A).
+
+A is incorrect. Calculating a loss of revenue is not difficult when a business＊s sales do not fluctuate.
+B is incorrect. Typical insurance claims for direct physical loss only affect an insured＊s balance sheet.
+C is incorrect. The subject of most property insurance claims is direct physical loss to property.
+
+23. Awesome Vinyl sells vinyl records from space rented at the local mall. After hours, an electronic sign was left on accidentally, causing a fire. The fire activated a sprinkler system, resulting in both fire and water damage to Awesome＊s inventory. Completing repairs and restocking inventory will take roughly three months. During the period of restoration, Awesome Vinyl was not able to conduct business. The main effect of this loss on Awesome＊s income statement will be a significant:
+A. Increase in operating expenses.
+B. Decrease in operating expenses.
+C. Increase in revenue.
+D. Decrease in revenue.
+
+D is correct (Obj 3 每 Type B).
+ 
+
+During the period of restoration, Awesome Vinyl will not be able to sell any products, resulting in a significant decrease in revenue. Operating expenses may very well decrease, but it is likely that many of these expenses will remain even during the period of restoration.
+
+24. Awesome Vinyl sells vinyl records from space rented at the local mall. After hours, an electronic sign was left on accidentally, causing a fire. The fire activated a sprinkler system, resulting in both fire and water damage to Awesome＊s inventory. Completing repairs and restocking inventory will take roughly three months. During the period of restoration, Awesome continued to pay rent for its store in the mall, but also rented a kiosk to sell newly released vinyl records. The cost of the rental of the kiosk would be considered a(n):
+A. Extra expense.
+B. Continuing expense.
+C. Noncontinuing expense.
+D. Sunk cost.
+
+A is correct (Obj 3 每 Type B).
+
+Since Awesome Vinyl is still paying for rent for its original space in the mall (continuing expense), the kiosk rental would be considered an extra expense.
+
+25. Under a Business Income Coverage (BIC) form, the definition of business income is:
+A. Gross profit less extra expenses.
+B. Net income plus normal continuing operating expenses.
+C. Net income plus extra expenses.
+D. Gross profit plus normal continuing operating expenses.
+
+B is correct (Obj 4 每 Type A).
+
+The BIC＊s intent is to place the insured in the same position as if the loss had not occurred. Therefore, the BIC will pay for the insured＊s net income that would have been realized, plus any normal operating expenses that continue after the loss.
+
+26. Darnall Glass Company had net income last calendar year in the amount of $1,200,000, which was earned equally throughout the year. They have the same net income in the current calendar year. A fire in their building caused them to have to shut down operations for five months and three days. During the shutdown, they incurred total continuing expenses in the amount of $400,000 (which included payroll costs of $125,000). Darnall is insured under a Business Income Coverage (BIC) form. How much will Darnall receive from the BIC?
+A. $500,000.
+B. $775,000.
+C. $900,000.
+D. $1,600,000.
+
+C is correct (Obj 4 每 Type B).
+
+The Business Income Coverage (BIC) form will cover the amount of net income lost during the period of restoration, plus any continuing expenses during the period of restoration. BIC coverage applies after a 72-hour (three day) waiting period. Therefore, the BIC will cover the five-month loss of net income during the shutdown period, plus the $400,000 of continuing expenses during the shutdown period.
+
+Net Income Lost During Shutdown = (Annual Net Income / 12) x Number of Months Shutdown
+Net Income Lost During Shutdown = ($1,200,000 / 12) x 5
+Net Income Lost During Shutdown = $100,000 x 5
+Net Income Lost During Shutdown = $500,000
+
+Coverage provided under BIC = $500,000 + $400,000 = $900,000
+
+27. Davis Hardware Store had a fire, forcing them to close for one month. During the business interruption, they had no revenue, and their total expenses were $12,000 (including extra expenses incurred). Had the fire not occurred, their expected revenue would have been $30,000 and their expected expenses would have been $24,000. What is the amount of their business income loss?
+A. $0.
+B. $6,000.
+C. $12,000.
+D. $18,000.
+
+D is correct (Obj 4 每 Type B).
+
+Their expected net income would have been $6,000, calculated as follows:
+Expected net income = Revenues - Expenses = $30,000 - $24,000 = $6,000
+
+However, due to the shutdown, they incurred $12,000 of expenses. Their business income loss is $18,000 ($6,000 expected profit not received plus $12,000 expenses actually incurred).
+
+28. For the 12 months preceding a covered loss, Reynolds Inc. had a net income of $6,000 per month. The loss caused the store to remain closed for four months, during which time Reynolds amassed $4,000 in continuing expenses. What was the total business income loss for Reynolds during this time?
+A. $4,000.
+B. $24,000.
+C. $28,000.
+D. $40,000.
+
+C is correct (Obj 4 每 Type B).
+
+Reynolds Inc＊s business income loss is the total of the net income it would have earned over those four months plus the expenses it actually incurred over that period.
+
+Business income loss = (4 x $6,000) + $4,000
+Business income loss = $24,000 + $4,000
+Business income loss = $28,000
+
+29. The insured and the adjuster agree on the following regarding a business income loss:
+Gross Revenues Lost 每 $1,800,000
+Noncontinuing Expenses 每 $1,300,000
+Continuing Expenses 每 $900,000
+Operating Loss 每 $400,000
+The business income loss under the Business Income Coverage Form (BIC) is:
+
+A. $400,000.
+B. $500,000.
+C. $900,000.
+D. $2,200,000.
+
+B is correct (Obj 4 每 Type B).
+
+The operating loss is $400,000, and the continuing expenses are $900,000. As a result, the business income loss is $500,000 ($900,000 - $400,000).
+
+30. The insured and the adjuster agree on the following regarding a business income loss:
+Gross Revenues Lost 每 $1,800,000
+Noncontinuing Expenses 每 $500,000
+Continuing Expenses 每 $900,000
+Operating Profit 每 $400,000
+The business income loss under the Business Income Coverage Form (BIC) is:
+
+A. $400,000.
+B. $500,000.
+C. $900,000.
+D. $1,300,000.
+
+D is correct (Obj 4 每 Type B).
+
+The operating profit is $400,000, and the continuing expenses are $900,000. As a result, the business income loss is $1,300,000 ($400,000 + $900,000).
+
+31. After a Business Income Coverage Form (BIC) covered loss, a damaged piece of equipment would take nine days to replace if shipped by common carrier and would cost $1,000 in freight charges. However, it would take only three days by air and would cost $1,500 to ship. The use of airfreight to expedite the repair of the damaged machinery would reduce the loss of productive capacity from the equipment. If the lost income value is $400 per day, which one of the following would be saved if the equipment is shipped by air?
+A. $1,000.
+B. $1,500.
+C. $1,900.
+D. $2,400.
+
+C is correct (Obj 4 每 Type B).
+ 
+
+The extra cost of shipping using airfreight vs. common carrier is $500 ($1,500 - $1,000). However, six days are saved, resulting in savings of $2,400 (6 x $400).
+
+Net savings:
+Savings due to receiving equipment faster 每 $2,400
+Less: extra cost of shipping 每 $500
+Net savings 每 $1,900
+
+32. When calculating net income to determine the amount an insurer will pay for a business income loss:
+A. Each dollar of noncontinuing expenses reduces the net income by one dollar.
+B. Each dollar of continuing expenses reduces the net income by one dollar.
+C. Each dollar of noncontinuing expenses reduces the net income by two dollars.
+D. Each dollar of continuing expenses reduces the net income by two dollars.
+
+B is correct (Obj 5 每 Type A).
+
+Each dollar of continuing expenses during a suspension reduces the business＊s net income for that period by one dollar, thus increasing the amount of business income loss that the insured＊s business income insurance will cover.
+
+33. All of the following are potential extra expenses a business may incur during a period of business interruption, EXCEPT:
+A. Cost to pay key employees during business interruption.
+B. Moving to a temporary business space.
+C. Cost of labor to set up a new business space.
+D. Cost of stock from temporary suppliers.
+
+A is correct (Obj 5 每 Type A).
+
+Paying key employees during a business interruption is considered a continuing expense.
+
+34. The Loss Determination Condition states that the amount of extra expense consists of:
+A. The sum of all expenses during the period of restoration.
+B. The sum of business income loss and expenses to reduce loss.
+C. All extra expenses in excess of normal operating expenses.
+D. All extra expenses up to the estimated normal operating expenses.
+
+C is correct (Obj 5 每 Type A).
+
+The Loss Determination condition states that the extra expense consists of all expenses in excess of normal operating expenses.
+
+35. The Expense to Reduce Loss additional coverage:
+A. Appears only in the Business Income (and Extra Expense) Coverage Form.
+B. Is provided in lieu of an Extra Expense insuring agreement.
+C. Replaces lost rental income from a property used primarily for rent.
+D. Reimburses the insured for costs associated with extinguishing a fire.
+
+B is correct (Obj 5 每 Type A).
+
+The Business Income (Without Extra Expense) Coverage Form does not have an Extra Expense insuring agreement. Instead, it contains the Expense to Reduce Loss additional coverage.
+
+A is incorrect. The Expense to Reduce Loss additional coverage is contained in the Business Income (Without Extra Expense) Coverage Form.
+C is incorrect. Fair Rental Value is a type of loss coverage provided in ISO homeowners policy forms. It can replace lost rental income.
+D is incorrect. The Expense to Reduce Loss additional coverage pays expenses incurred to avoid further loss of business income. However, costs associated with extinguishing a fire are excluded from coverage.
+
+36. Skyler＊s Ski Supplies was insured under a Business Income (and Extra Expense) Coverage Form. They suffered a loss to their business when their building was destroyed in a fire. The business was conducted at a temporary location for the duration of the ski season while the original location was being rebuilt. Which one of the following would most likely be a continuing expense during the period of restoration?
+A. Notifying customers of the temporary location.
+B. Utilities at the original location.
+C. Moving to the temporary location.
+D. Labor at the temporary location.
+
+D is correct (Obj 5 每 Type B).
+ 
+
+The cost of labor at the temporary location would likely be considered a continuing expense because the business would have needed the labor at the original location had the loss not occurred.
+
+A is incorrect. Notifying customers of the temporary location would be an extra expense.
+B is incorrect. Utilities at the original location would most likely be a noncontinuing expense, unless the company is obligated to pay a minimum charge regardless of usage.
+C is incorrect. Moving to the temporary location would be an extra expense.
+
+37. Which one of the following statements is correct regarding Additional Living Expense coverage?
+A. It provides coverage if the home is determined to be ※not fit to live in.§correct
+B. It covers increases in living expenses incurred, even if the home was damaged by a non-covered peril.
+C. It is offered primarily with commercial property coverage forms.
+D. It covers a period not to exceed six months after the home has been damaged.
+
+A is correct (Obj 6 每 Type A).
+ 
+
+B is incorrect. Additional Living Expense coverage only applies when a loss would otherwise be covered under the policy. Therefore, if the home was damaged by a non-covered peril (such as a flood), Additional Living Expense coverage would not apply.
+C is incorrect. Additional Living Expense coverage is found within ISO homeowners policy forms.
+D is incorrect. Increased living expenses are covered for the shortest time required to repair or replace the damage or for the household to settle elsewhere.
+
+38. Which one of the following statements is correct regarding Fair Rental Value coverage?
+A. The property must be completely destroyed before the coverage applies.
+B. The coverage pays for the fair rental value of the premises, less any noncontinuing expenses.
+C. The coverage applies to all rental properties owned by the insured.
+D. The premises must be rented to a tenant at the time of the loss for coverage to apply.
+
+B is correct (Obj 6 每 Type A).
+ 
+
+A is incorrect. The insured can recover losses that occur if the premises is not fit to live in.
+C is incorrect. The coverage only applies to rentals of the insured＊s residence premises.
+D is incorrect. The insured can still be compensated for the fair rental value if part of the premises is being ※held for rental§ when the physical loss occurs.
+
+39. Which one of the following statements is correct regarding home-sharing loss exposures?
+A. Coverage through unendorsed homeowners forms is sufficient for those renting out their homes in a home-sharing capacity.
+B. An online application that enables the exchange of money for the rental of a dwelling is known as a dwelling host platform.
+C. The Home-sharing Host Activity Amendatory Endorsement reinforces that liability coverage does not apply to home-sharing host activities.
+D. The Home-sharing Exclusion Endorsement is a mandatory endorsement applied to the HO-3 policy that provides coverage for a home-sharing arrangement.
+
+C is correct (Obj 6 每 Type A).
+ 
+
+A is incorrect. Coverage through unendorsed homeowners forms is not sufficient for those renting out their homes in a home-sharing capacity. Home sharing is likely considered a business and many loss exposures may not be adequately covered.
+B is incorrect. A home-sharing network platform is an online tool that facilitates the exchange of money for the rental of part or all of a dwelling.
+D is incorrect. The Home-sharing Host Activity Amendatory Endorsement is a mandatory endorsement applied to the HO-3 policy. This endorsement reinforces that ISO homeowners property coverage does not apply when a home is used for home-sharing.
+
+40. To be payable, additional living expenses must exhibit all of the following characteristics, EXCEPT:
+A. They must be necessary.
+B. They must represent increases above normal expenses.
+C. They must have been incurred.
+D. They must enhance the insured＊s standard of living.
+
+D is correct (Obj 6 每 Type A).
+ 
+
+To be payable, additional living expenses must be necessary, represent increases above normal, have been incurred, and be necessary to maintain the insured＊s normal (not enhanced) standard of living.
+
+41. Which one of the following statements is correct regarding adjusting fair rental value?
+A. The claims rep always must verify the insured incurred a loss.
+B. Payment cannot be made until the period of restoration is complete.
+C. Online calculators can be used to estimate fair rental value.
+D. The amount payable is calculated by deducting noncontinuing expenses from the fair market value.
+
+C is correct (Obj 6 每 Type A).
+ 
+
+A is incorrect. Loss settlements under Fair Rental Value don＊t require claims reps to verify that the insured actually incurred a loss. The insured is deemed to have suffered a loss when property held for rental is unfit to live in.
+B is incorrect. The claims rep doesn＊t need to delay settlement until the period of restoration is complete. The amount payable can be estimated.
+D is incorrect. The amount payable is calculated by deducting continuing expenses from the fair market value.

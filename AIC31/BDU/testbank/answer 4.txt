@@ -1,0 +1,393 @@
+1. Which one of the following statements is correct regarding fire loss investigations?
+A. When finding temporary housing for a family displaced from its home because of a fire, it is important for the adjuster to reduce costs wherever possible.
+B. For a simple homeowners claim, the insured might be permitted to supply the adjuster with estimates.
+C. A homeowners fire loss can be challenging for an adjuster to handle because of the need for compliance with state consumer privacy laws.
+D. If it is suspected that accelerants were used when investigating the origin and cause of a fire loss, it may be necessary to obtain the services of an attorney.
+
+B is correct (Obj 1 每 Type A).
+ 
+
+A is incorrect. When finding temporary housing for a family displaced from its home because of a fire, it is important for the adjuster to understand the family＊s lifestyle. The adjuster should know what is available and appropriate under the circumstances.
+C is incorrect. A homeowners fire loss can be challenging for an adjuster to handle because of the complex and sensitive issues involved in the loss of a home and the insured's personal possessions.
+D is incorrect. If it is suspected that accelerants were used when investigating the origin and cause of a fire loss, it may be necessary to obtain the services of a chemical analysis expert.
+
+2. If a fire loss occurs and causes damage to the inventory of a commercial organization, it may be necessary for the adjuster to seek the expertise of which one of the following experts to sell damaged merchandise as salvage?
+A. A restoration expert.
+B. A salvor.
+C. An appraiser.
+D. A origin-and-cause expert.
+
+B is correct (Obj 1 每 Type A).
+A salvor is a specialist who separates damaged merchandise from undamaged merchandise, prepares inventories of damaged and destroyed property, and establishes values of damaged or destroyed business property.
+
+3. Which one of the following is a challenge associated with a commercial fire loss that is not generally associated with a homeowners fire loss?
+A. Commercial fire losses require an origin-and-cause report.
+B. Commercial fire losses tend to be more complex and sensitive than homeowners fire losses.
+C. A commercial fire might produce hazardous material that requires the services of special containment companies to clean up.
+D. Commercial fire losses require photos, video, and diagrams.
+
+C is correct (Obj 1 每 Type A).
+ 
+
+A is incorrect. An origin-and-cause investigation and report are important for all fire losses.
+B is incorrect. Homeowners fire losses tend to be more complex and sensitive than commercial fire losses because of the issues involved in the loss of a home and the insured＊s personal possessions.
+D is incorrect. All fire losses can require photos, video, and diagrams.
+
+4. Fire investigation reports should accomplish all the following, EXCEPT:
+A. Reconstruct the loss scene.
+B. Document the damage patterns.
+C. Show mechanisms of ignition clearly.
+D. Indicate all parties with an insurable interest.
+
+D is correct (Obj 1 每 Type A).
+
+Fire investigation reports should have the following elements:
+
+Document the damage patterns.
+Reconstruct the loss scene.
+Show mechanisms of ignition clearly.
+Eliminate all other sources of ignition.
+
+
+5. Which one of the following statements is correct regarding smoke losses?
+A. Heavy smoke develops when burning material escapes its confines.
+B. Smoke cools as it moves away from the fire.
+C. Two types of smoke cause damage: hostile smoke and friendly smoke.
+D. The type of smoke resulting from a fire depends on the ignition source.
+
+B is correct (Obj 1 每 Type A).
+ 
+
+A is incorrect. Heavy smoke develops when the burning material is shut off from an adequate supply of oxygen, thus preventing complete combustion.
+C is incorrect. Two types of smoke cause damage: hot smoke and cold smoke.
+D is incorrect. The type of smoke resulting from a fire depends on the fire＊s intensity, the material consumed in the fire, and the amount of oxygen consumed.
+
+6. Which one of the following statements is correct regarding hot smoke?
+A. It can deeply stain masonry.
+B. It rests upon the surfaces it contacts.
+C. It is easier to remove from surfaces than cold smoke.
+D. Its damage is less severe than cold smoke damage.
+
+A is correct (Obj 1 每 Type A).
+ 
+
+B is incorrect. Cold smoke rests upon the surfaces it contacts.
+C is incorrect. Cold smoke is easier to remove from surfaces.
+D is incorrect. Hot smoke damage is more severe than cold smoke damage.
+
+7. Which one of the following statements is correct regarding lightning losses?
+A. Lightning damages more sturdy components of electrical equipment before the component＊s more fragile parts.
+B. Direct strikes by lightning can start a fire or even have an explosive effect.
+C. The most common targets of lightning strikes are rivers and steep embankments.
+D. A notarized statement from a repairperson attesting to lightning damage is a good practice because it protects the insured from unfair claim practices.
+
+B is correct (Obj 1 每 Type A).
+ 
+
+A is incorrect. Lightning damages more fragile parts before damaging the sturdy components.
+C is incorrect. The most common targets of lightning strikes are roofs, chimneys, power lines, antennas, and trees.
+D is incorrect. A notarized statement from a repairperson attesting to lightning damage is a good practice because it helps to ensure the statement＊s veracity.
+
+8. Which one of the following statements is correct regarding lightning damage?
+A. The most frequent targets of lightning are roofs, chimneys, church steeples, power lines, antennas, and trees.
+B. Adjusters should inspect electrical products＊ internal workings directly for evidence of lightning damage.
+C. The only source an adjuster should trust to confirm if a lightning strike occurred at the time of the loss is the National Weather Service.
+D. No physical evidence of lightning damage on a building＊s exterior can be seen by adjusters.
+
+A is correct (Obj 1 每 Type A).
+
+B is incorrect. Adjusters should leave inspections of electrical products＊ internal workings to competent repair people or consultants.
+C is incorrect. The National Weather Service, lightning reporting services, local TV stations, and power companies are all good sources of information to confirm whether lightning occurred in the area at the time of the loss.
+D is incorrect. Adjusters often see exterior lightning damage to a building.
+
+9. What is an adjuster＊s first step in handling a reported lightning loss claim?
+A. Physically inspect the damage.
+B. Confirm that lightning occurred in the area at the time of the loss.
+C. Obtain an affidavit from a repairperson that the damage was caused by lightning.
+D. Determine whether there is other insurance covering the damaged property.
+
+B is correct (Obj 1 每 Type A).
+
+The challenge in handling a lightning loss claim is to determine that the damage was caused by lightning and not some other type of failure, and the first step in doing so is to confirm that lightning occurred in the area at the time of the loss.
+
+10. Which one of the following losses is most likely due to the peril of lightning?
+A. Damage to the heating coils but not the timer of a clothes dryer.
+B. Damage to an air conditioning unit＊s condenser.
+C. Damage to pipes.
+D. Damage to a burglar system＊s control box.
+
+B is correct (Obj 1 每 Type A).
+ 
+
+A is incorrect. Lightning destroys electrical equipment and its components in an expected order. If the heavier gauge wire of the heating coils is damaged but the smaller gauge wire of the timer is not, than it is unlikely that the cause is lightning.
+C is incorrect. Lightning does not damage parts such as pipes or rotors.
+D is incorrect. Burglar and fire alarm systems usually sustain damage only to a circuit board, not to the detectors, control boxes, and other parts.
+
+11. Evidence of an explosion loss includes all the following, EXCEPT:
+A. Broken or displaced masonry.
+B. Damage due to ground tremors.
+C. Splintered timbers.
+D. Scattered debris.
+
+B is correct (Obj 1 每 Type A).
+ 
+
+Most explosion losses show evidence of shattered glass, broken or displaced masonry, widely scattered debris, and splintered timbers.
+
+12. If determining the type and cause of an explosion is difficult, adjusters must often:
+A. Use the process of elimination.
+B. Deny the claim.
+C. Interview possible witnesses.
+D. Pass the claim along to a more experienced adjuster.
+
+A is correct (Obj 1 每 Type A).
+ 
+
+Determining the type and cause of an explosion can be difficult at times, and adjusters must often arrive at a logical conclusion by using the process of elimination. Adjusters should also consider relation questions such as: were any explosive materials normally used or housed in the building?
+
+13. Which one of the following is a way in which an adjuster can distinguish cracks in walls and ceilings resulting from a recent explosion versus cracking from other sources?
+A. Cracks from a recent explosion generally measure more than 1/8 of an inch wide.
+B. Cracks from other sources run in predictable patterns.
+C. Cracks from a recent explosion will be relatively clean.
+D. Cracks from other sources generally only occur on the ground floor of a building.
+
+C is correct (Obj 1 每 Type A).
+
+Many cracks in plastered walls or ceilings result from normal shrinkage or expansion of building materials completely unrelated to any blasting explosions. Newly occurring cracks should look fresh and be free of dust and dirt.
+
+14. What is the key to successfully adjusting a covered water damage loss?
+A. Timely reporting of the loss.
+B. Speed.
+C. Collaboration with experts.
+D. Skepticism.
+
+B is correct (Obj 2 每 Type A).
+ 
+
+The faster the water is stopped from flowing and the earlier the drying process is begun, the better. The adjuster must be able to dispatch contractors and restoration companies to the scene of covered losses to mitigate the damages.
+
+15. Which one of the following statements is correct regarding water damage losses?
+A. Visual inspection will only show the result of a leak.
+B. It is rarely necessary to do some tear-out to find the source of a leak.
+C. Water travels in a straight line.
+D. Finding a leak within walls and ceilings is generally fairly easy.
+
+A is correct (Obj 2 每 Type A).
+ 
+
+B is incorrect. It is usually necessary to do some tear-out before the source of a leak can be found.
+C is incorrect. Water does not necessarily travel in a straight line.
+D is incorrect. Finding a leak within walls and ceilings can be difficult.
+
+16. The generally accepted definition for windstorm under property insurance policies is:
+A. A weather event including both wind and rain.
+B. Any wind exceeding 50 miles per hour.
+C. A wind strong enough to become a tornado.
+D. A wind velocity having sufficient force to cause damage.
+
+D is correct (Obj 2 每 Type A).
+ 
+
+The definition usually accepted for windstorm is a wind velocity having sufficient force to cause damage. No specific wind velocity is needed to constitute a windstorm.
+
+17. With respect to a hurricane, the Windstorm peril coverage under a property insurance policy will provide:
+A. No coverage for the insured.
+B. Coverage only for damage caused by wind.
+C. Coverage for damage caused by wind and flood.
+D. Coverage for damage caused by wind and overflow.
+
+B is correct (Obj 2 每 Type A).
+
+With respect to a hurricane, the Windstorm peril coverage under a property insurance policy will provide coverage only for damage as a result of wind. Coverage is not provided for flood, high water, overflow, surface water, or tidal waves.
+
+18. Which one of the following is an example of black water?
+A. Aquarium water.
+B. Leaking waterbed.
+C. Sewage.
+D. Toilet overflow.
+
+C is correct (Obj 3 每 Type A).
+
+A is incorrect. Water from broken aquariums is gray water.
+B is incorrect. A leaking waterbed is gray water.
+D is incorrect. Toilet overflow is gray water.
+
+19. Which one of the following statements is correct regarding mold?
+A. Air is the essential ingredient needed to grow mold.
+B. All types of mold are considered harmful if consumed.
+C. Prompt identification of mold growth can minimize health risks for building occupants.
+D. Mold problems are common in areas that get excessive ventilation.
+
+C is correct (Obj 3 每 Type A).
+ 
+
+Recognizing the potential for mold growth in water damage claims and promptly adjusting those claims is important to insurers for two reasons:
+
+Early recognition and remediation of potential mold growth minimizes damage costs.
+Prompt identification and communication of mold growth can minimize or avoid health risks for building occupants.
+ 
+A is incorrect. Water is the essential ingredient need to grow mold.
+B is incorrect. Not all molds are harmful. Some mold is useful, such as those in penicillin.
+D is incorrect. Mold problems are common in areas where moisture manages to seep or run through building components.
+
+20. Which one of the following shoddy construction practices can foster mold growth?
+A. Use of low-quality flooring materials.
+B. Improper grading along foundation walls.
+C. Failure to seal brick veneer.
+D. Using oak on outdoor structures.
+
+B is correct (Obj 3 每 Type A).
+ 
+
+Shoddy construction practices such as failure to use flashing around windows; the misapplication of synthetic stucco exteriors or other materials; faulty heating, ventilating, and air conditioning systems; and improper grading along foundation walls can foster mold growth.
+
+21. An example of gray water is:
+D. Water that escapes from broken pipes.
+A. Water that leaks through a broken roof.
+B. Water that comes from a dishwasher rinse cycle.
+C. Water that has flowed over organic material.
+
+B is correct (Obj 3 每 Type A).
+
+Gray water sources can include dishwasher, washing machine, or toilet overflow; broken aquariums; leaking waterbed; and stagnant seawater.
+
+A is incorrect. Water that leaks through a broken roof is clean water.
+C is incorrect. Water that has flowed over organic material is black water.
+D is incorrect. Water that escapes from broken pipes is clean water.
+
+22. The first step in investigating a theft claim is for the adjuster to:
+A. Determine whether any policy limitations apply.
+B. Confirm who has insurable interest in the property.
+C. Estimate the value of the stolen property.
+D. Ascertain whether theft is covered under the policy.
+
+D is correct (Obj 4 每 Type A).
+
+To begin an investigation, the adjuster ascertains whether theft is covered under the policy.
+
+23. Which one of the following statements is correct regarding the investigation of theft losses?
+A. The first step in investigating a theft claim is for the adjuster to confirm who owns the property.
+B. The best type of document for use in a theft claim investigation is a photocopy of the original receipt for the stolen merchandise.
+C. Theft claims are the easiest type of insurance claims to fabricate or inflate.
+D. Homeowners policies have no provisions regarding stolen property that is recovered.
+
+C is correct (Obj 4 每 Type A).
+ 
+
+A is incorrect. To begin an investigation, the adjuster ascertains whether theft is covered under the policy.
+B is incorrect. The best type of document to prove ownership and value in a theft claim investigation is the original bill or receipt. The least credible is a photocopy of such a document.
+D is incorrect. Homeowners policies and Building and Personal Property Coverage Forms (BPP) both have provisions regarding stolen property that is recovered.
+
+24. Since theft claims are by far the easiest to inflate or fabricate, an adjuster needs to:
+A. Be proficient in administering polygraph tests.
+B. Record all interactions with the insured.
+C. Confirm that theft is a covered cause of loss.
+D. Be both empathetic and skeptical.
+
+D is correct (Obj 4 每 Type A).
+ 
+
+If the circumstances of the loss are questionable, the adjuster should investigate further and even enlist the assistance of the insurer＊s special investigations unit to confirm to deny suspicions.
+
+25. Which one of the following statements is correct regarding hurricanes?
+A. Long periods of drought typically follow a hurricane.
+B. In addition to their powerful winds, hurricanes deliver enormous amounts of rain and cause tides to surge well beyond normal.
+C. Few structures can withstand even a relatively low-velocity hurricane.
+D. Property insurance policies cover damage from most of the perils associated with hurricanes, including floods and tidal surge.
+
+B is correct (Obj 5 每 Type A).
+
+A is incorrect. Sustained rainy weather often follows a hurricane.
+C is incorrect. Most structures can withstand, with minor damage, a relatively low-velocity hurricane with winds between 75 and 90 miles per hour.
+D is incorrect. Property insurance policies cover damage from wind and wind-driven rain but generally do not cover damage from floods or tidal surges.
+
+26. Which one of the following lists represents the most frequent causes of catastrophes?
+A. Wind, earthquakes, and floods.
+B. Hail, tornadoes, and earthquakes.
+C. Wind, hurricanes, and tornadoes.
+D. Hail, wind, and tornadoes.
+
+D is correct (Obj 5 每 Type A).
+
+Hail, wind, and tornadoes are the most frequent cases of catastrophes. However, hurricanes, floods, and earthquakes cause more widespread damage.
+
+27. Which one of the following statements is correct regarding types of catastrophes?
+A. Wind is the most destructive in terms of widespread damage.
+B. Earthquakes strong enough to cause damage might occur in any state.
+C. Tornados cover the largest geographical area.
+D. Hailstorms generally receive more publicity in the national media than other catastrophes.
+
+B is correct (Obj 5 每 Type A).
+
+A is incorrect. Floods are the most destructive in terms of widespread damage.
+C is incorrect. Hurricanes are geographically the largest type of catastrophe.
+D is incorrect. Hailstorms do not receive the same publicity in the national media as do other catastrophes.
+
+28. Which one of the following statements is correct regarding fires?
+A. A fire severe enough to cause a catastrophe will incinerate the property involved.
+B. Rural areas are usually completely uninsured for fire.
+C. Adjusters should avoid subjecting fire victims to unnecessary trauma by waiving the proof of loss documentation.
+D. Fires are rarely limited to one owner＊s property.
+
+A is correct (Obj 5 每 Type A).
+ 
+
+B is incorrect. Rural fires usually involve uninsured property, but rural areas can contain significant insured property, both residential and commercial.
+C is incorrect. While adjusters should avoid subjecting fire victims to an additional trauma, they need to know the amount of every loss.
+D is incorrect. Fires are usually limited to one owner＊s property, but some are extensive enough to cause a catastrophe.
+
+29. What is the most challenging aspect of a catastrophe for an insurer?
+A. Keeping up morale.
+B. Ensuring safety.
+C. Providing adequate staff.
+D. Managing the media.
+
+C is correct (Obj 6 每 Type A).
+ 
+
+Unless an insurer is exceedingly overstaffed during normal times, it will have a shortage of qualified staff for a catastrophe.
+
+30. What might occur if initial adjusting work is too hasty or if hidden damage is not apparent until repairs begin?
+A. The insured may sue the insurer for negligence.
+B. The adjuster may be held liable.
+C. The insurer may need to pay a penalty.
+D. The adjuster may have to reopen the file.
+
+D is correct (Obj 6 每 Type A).
+ 
+
+Adjusters may have to reopen numerous files from a catastrophe if the initial adjusting work was too hasty or if hidden damage was not apparent until repairs began.
+
+31. The threshold of insured damages above which the ISO Property Claim Services (PCS) officially recognizes as a catastrophe is:
+A. $5 million.
+B. $25 million.
+C. $50 million.
+D. $100 million.
+
+B is correct (Obj 6 每 Type A).
+ 
+
+ISO Property Claim Services (PCS) of American Insurance Services Group officially recognizes and assigns a catastrophe serial number to any single event that causes more than $25 million in insured damage.
+
+32. Which one of the following is a mistake that adjusters can make during the settlement of losses when prices are high?
+A. Paying any amount to close claims.
+B. Closing claims without proper approval.
+C. Insisting that higher prices should prevail.
+D. Hiring out-of-state contractors.
+
+A is correct (Obj 6 每 Type A).
+
+Claims adjusters can make two different mistakes when prices are high:
+
+Insisting that normal prices should prevail and refusing to settle claims for a higher amount.
+Paying any amount to close claims.
+
+33. Property Claim Services (PCS) serial numbers and loss estimates are used to activate reinsurance treaties and to help primary insurers:
+A. Estimate their exposure in a catastrophe.
+B. Adequately staff their catastrophe response.
+C. Communicate with claims adjusters.
+D. Seek compensation from reinsurers.
+
+A is correct (Obj 6 每 Type A).
+
+Property Claim Services (PCS) serial numbers and loss estimates are used to activate reinsurance treaties and to help primary insurers estimate their exposure in a catastrophe.
